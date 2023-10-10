@@ -1,0 +1,122 @@
+{
+    "teams" : [
+        {
+            "name" : "Nulary",
+            "icon" : "./img/logo/nulary.png",
+            "players" : [
+                {
+                    "name" : "Croux",
+                    "discord" : ".nightpenguins_",
+                    "RLOL" : "Gold",
+                    "LLOL" : "https://www.op.gg/summoners/euw/NLY%20Cr%C3%B8ux",
+                    "RTFT" : "Platinium",
+                    "LTFT" : "https://tracker.gg/tft/profile/riot/EUW/NLY%20Cr%C3%B8ux/overview",
+                    "RVAL" : "Silver",
+                    "LVAL" : "https://tracker.gg/valorant/profile/riot/NLY%20Cr%C3%B8ux%23EUW/overview",
+                    "RROL" : "Gold",
+                    "LROL" : "https://rocketleague.tracker.network/rocket-league/profile/epic/Cr%C3%B8ux/overview",
+                    "PTRM" : "Matyk79",
+                    "PFTN" : "Crøux",
+                    "SSBU" : "Oui",
+                    "QUIZ" : ""
+                },
+                {
+                    "name" : "Croniume",
+                    "discord" : "croniume",
+                    "RLOL" : "Gold",
+                    "LLOL" : "https://www.op.gg/summoners/euw/NLY%20Croniume",
+                    "RTFT" : "Diamant",
+                    "LTFT" : "https://lolchess.gg/profile/euw/nlycroniume/set9.5",
+                    "RVAL" : "Unranked",
+                    "LVAL" : "https://tracker.gg/valorant/profile/riot/NLY%20Croniume%23EUW/overview",
+                    "RROL" : "Silver",
+                    "LROL" : "https://rocketleague.tracker.network/rocket-league/profile/epic/Croniume/overview",
+                    "PTRM" : "Croniume111",
+                    "PFTN" : "Croniume",
+                    "SSBU" : "",
+                    "QUIZ" : "Oui"
+                },
+                {
+                    "name" : "Ratatouille_hm",
+                    "discord" : "ratatouille_hm",
+                    "RLOL" : "Platinium 3",
+                    "LLOL" : "https://www.op.gg/summoners/euw/NLY%20fan%20de%20Pr%C3%B8ux",
+                    "RTFT" : "Platinium",
+                    "LTFT" : "https://lolchess.gg/profile/euw/nlyfandepr%C3%B8ux/set9.5",
+                    "RVAL" : "Bronze",
+                    "LVAL" : "https://tracker.gg/valorant/profile/riot/NLY%20fan%20de%20Pr%C3%B8ux%23EUW/overview",
+                    "RROL" : "Diamant",
+                    "LROL" : "https://rocketleague.tracker.network/rocket-league/profile/epic/Ratatouille_hmm/overview",
+                    "PTRM" : "ratatouille_hmm",
+                    "PFTN" : "ratatouille_hmm",
+                    "SSBU" : "Oui",
+                    "QUIZ" : ""
+                },
+                {
+                    "name" : "CrazyMattex",
+                    "discord" : "crazymattex",
+                    "RLOL" : "Gold",
+                    "LLOL" : "https://www.op.gg/summoners/euw/WanderingStars",
+                    "RTFT" : "Silver",
+                    "LTFT" : "https://lolchess.gg/profile/euw/wanderingstars/set9.5",
+                    "RVAL" : "Unranked",
+                    "LVAL" : "https://tracker.gg/valorant/profile/riot/WanderingStars%23EUW/overview",
+                    "RROL" : "",
+                    "LROL" : "",
+                    "PTRM" : "",
+                    "PFTN" : "",
+                    "SSBU" : "",
+                    "QUIZ" : "Oui"
+                },
+                {
+                    "name" : "Reijin373",
+                    "discord" : "reijin373",
+                    "RLOL" : "Gold",
+                    "LLOL" : "https://www.op.gg/summoners/euw/NP%20Reijin",
+                    "RTFT" : "Diamant",
+                    "LTFT" : "https://tracker.gg/tft/profile/riot/NA/NP%20Reijin/overview",
+                    "RVAL" : "Silver",
+                    "LVAL" : "https://tracker.gg/valorant/profile/riot/Reijin%235310/overview",
+                    "RROL" : "Diamant",
+                    "LROL" : "https://rocketleague.tracker.network/rocket-league/profile/epic/Reijinn/overview",
+                    "PTRM" : "ReijinSC",
+                    "PFTN" : "Reijinn",
+                    "SSBU" : "Oui",
+                    "QUIZ" : "Oui"
+                },
+                {
+                    "name" : "Proux",
+                    "discord" : "prouxprime",
+                    "RLOL" : "Silver",
+                    "LLOL" : "https://www.op.gg/summoners/euw/NLY%20Pr%C3%B8ux",
+                    "RTFT" : "Gold",
+                    "LTFT" : "https://tracker.gg/tft/profile/riot/EUW/NLY%20Pr%C3%B8ux/overview",
+                    "RVAL" : "",
+                    "LVAL" : "",
+                    "RROL" : "",
+                    "LROL" : "",
+                    "PTRM" : "Prouxxx",
+                    "PFTN" : "",
+                    "SSBU" : "Oui",
+                    "QUIZ" : ""
+                },
+                {
+                    "name" : "Hipolight",
+                    "discord" : "hipolight",
+                    "RLOL" : "",
+                    "LLOL" : "",
+                    "RTFT" : "Unranked",
+                    "LTFT" : "https://tracker.gg/tft/profile/riot/NA/CapsIsmyfather/overview",
+                    "RVAL" : "Gold",
+                    "LVAL" : "https://tracker.gg/valorant/profile/riot/Hipolight%23G2WIN/overview",
+                    "RROL" : "Diamant",
+                    "LROL" : "https://rocketleague.tracker.network/rocket-league/profile/epic/Hipolight/overview",
+                    "PTRM" : "",
+                    "PFTN" : "Hipolight",
+                    "SSBU" : "Oui",
+                    "QUIZ" : "Oui"
+                }
+            ]
+        }
+    ]
+}
