@@ -7,6 +7,7 @@
                 {
                     "name" : "Croux",
                     "discord" : ".nightpenguins_",
+                    "icon" : "./img/logo/nulary.png",
                     "RLOL" : "Gold",
                     "LLOL" : "https://www.op.gg/summoners/euw/NLY%20Cr%C3%B8ux",
                     "RTFT" : "Platinium",
@@ -23,6 +24,7 @@
                 {
                     "name" : "Croniume",
                     "discord" : "croniume",
+                    "icon" : "./img/logo/nulary.png",
                     "RLOL" : "Gold",
                     "LLOL" : "https://www.op.gg/summoners/euw/NLY%20Croniume",
                     "RTFT" : "Diamant",
@@ -39,6 +41,7 @@
                 {
                     "name" : "Ratatouille_hm",
                     "discord" : "ratatouille_hm",
+                    "icon" : "./img/logo/nulary.png",
                     "RLOL" : "Platinium 3",
                     "LLOL" : "https://www.op.gg/summoners/euw/NLY%20fan%20de%20Pr%C3%B8ux",
                     "RTFT" : "Platinium",
@@ -55,6 +58,7 @@
                 {
                     "name" : "CrazyMattex",
                     "discord" : "crazymattex",
+                    "icon" : "./img/logo/nulary.png",
                     "RLOL" : "Gold",
                     "LLOL" : "https://www.op.gg/summoners/euw/WanderingStars",
                     "RTFT" : "Silver",
@@ -71,6 +75,7 @@
                 {
                     "name" : "Reijin373",
                     "discord" : "reijin373",
+                    "icon" : "./img/logo/nulary.png",
                     "RLOL" : "Gold",
                     "LLOL" : "https://www.op.gg/summoners/euw/NP%20Reijin",
                     "RTFT" : "Diamant",
@@ -87,6 +92,7 @@
                 {
                     "name" : "Proux",
                     "discord" : "prouxprime",
+                    "icon" : "./img/logo/nulary.png",
                     "RLOL" : "Silver",
                     "LLOL" : "https://www.op.gg/summoners/euw/NLY%20Pr%C3%B8ux",
                     "RTFT" : "Gold",
@@ -103,6 +109,7 @@
                 {
                     "name" : "Hipolight",
                     "discord" : "hipolight",
+                    "icon" : "./img/logo/nulary.png",
                     "RLOL" : "",
                     "LLOL" : "",
                     "RTFT" : "Unranked",

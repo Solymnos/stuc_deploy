@@ -3,11 +3,11 @@ import TopBar from '../components/TopBar'
 
 function Resultats() {
   return (
-    <div id="Résultats" className='h-screen snap-center flex flex-row'>
-      <div className='p-5 flex flex-col w-full h-full justify-center items-center text-center'>
-        <TopBar title='Résultats'/>
-        <div className='w-full flex flex-col flex-grow justify-center items-center text-center gap-8'>
-          <p className='text-white font-bold text-6xl'>La compétition n'a pas encore commencée</p>
+    <div id="Résultats" className='h-screen snap-center flex flex-col'>
+      <div className='flex flex-col h-full p-5 justify-center items-center'>
+        <TopBar title='Resultats'/>
+        <div className='h-full flex-grow flex flex-col justify-center items-center text-center gap-5'>
+          <p className='text-white font-bold 2xl:text-8xl text-5xl'>La compétition n'a pas encore commencée !</p>
         </div>
       </div>
     </div>

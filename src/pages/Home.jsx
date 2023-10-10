@@ -12,20 +12,20 @@ const data = [
 
 function Home() {
   return (
-    <div id='Home' className='h-screen snap-center flex flex-row'>
-      <div className='flex-2 flex-col justify-center gap-5 flex p-5 ml-16'>
-        <h1 className='text-white font-bold text-8xl'>S.T.U.C</h1>
-        <h2 className='text-hl font-semibold text-4xl'>Solary Tournament Ultra Challenge</h2>
-        <ul className='list-none flex flex-col gap-5'>
+    <div id='Home' className=' h-screen snap-center flex 2xl:flex-row flex-col 2xl:ml-16'>
+      <div className='flex-col flex 2xl:flex-2 flex-3 text-center 2xl:text-left justify-center gap-5 p-5'>
+        <h1 className='text-white font-bold 2xl:text-8xl text-7xl'>S.T.U.C</h1>
+        <h2 className='text-hl font-semibold 2xl:text-4xl text-2xl'>Solary Tournament Ultra Challenge</h2>
+        <ul className='list-none flex flex-col 2xl:gap-3'>
           {
             data.map(item =>
               (
-                <li className='text-6xl font-semibold cursor-pointer text-white hover:underline decoration-hl' text={item} key={item} onClick={() => navigateClick(item)}>{item}</li>
+                <li className='text-3xl 2xl:text-6xl font-semibold cursor-pointer text-white hover:underline decoration-hl' text={item} key={item} onClick={() => navigateClick(item)}>{item}</li>
               ))
           }
         </ul>
       </div>
-      <div className='flex-3 flex items-center justify-center'>
+      <div className='flex flex-col justify-center flex-2 2xl:flex-3 items-center'>
         <img className='h-3/4 animate-tiltshaking' src='/img/logo/Shark.png' alt='Wash machine'/>
       </div>
     </div>

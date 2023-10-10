@@ -24,30 +24,30 @@ function Jeux() {
 
   return (
     <div id='Jeux' className='h-screen snap-center flex flex-col'>
-      <div className='p-5 flex flex-col w-full h-full justify-center items-center text-center gap-5'>
-        <TopBar title='Jeux' />
-        <div className='w-full flex flex-row gap-5'>
+      <div className='flex flex-col h-full p-5 justify-center items-center gap-5'>
+        <TopBar title='Jeux'/>
+        <div className='w-full flex flex-wrap gap-5'>
         {
           data.map((item, index) => (
-            <div className={`${selectedId === index ? 'bg-card border text-white' : 'bg-card '} flex-1 flex flex-row justify-center items-center p-3 rounded-2xl gap-5 cursor-pointer`} key={item} onClick={() => handleGameClick(index)}>
+            <div className={`${selectedId === index ? 'bg-card border text-white' : 'bg-card '} 2xl:flex-1 p-3 flex flex-row justify-center items-center  rounded-2xl gap-5 cursor-pointer`} key={item} onClick={() => handleGameClick(index)}>
               <img  className='h-12' src={item.icon} alt='game icon'/>
-              <h1 className='text-white text-xl font-bold'>{item.name}</h1>
+              <h1 className=' hidden 2xl:block 2xl:text-white 2xl:text-xl 2xl:font-bold'>{item.name}</h1>
             </div>
           ))
         }
         </div>
-        <div className='w-full flex flex-grow flex-row'>
-          <div className='flex-1 flex justify-center items-center'>
+        <div className='w-full flex flex-grow flex-col 2xl:flex-row'>
+          <div className='flex-1 justify-center items-center hidden 2xl:flex'>
             <img className='w-1/2' src={data[selectedId].img} alt='game img'/>
           </div>
-          <div className='flex-1 flex flex-col gap-5 justify-center items-center'>
-            <div className='flex-1 bg-card rounded-3xl flex flex-col text-left p-4 w-3/4'>
-              <h1 className='text-hl text-4xl font-bold'>Phase de poules :</h1>
-              <p className='text-white text-2xl font-semibold'>{data[selectedId].PDP}</p>
+          <div className='flex-1 flex justify-center items-center flex-col gap-5'>
+            <div className='flex-1 bg-card rounded-3xl flex flex-col text-left 2xl:w-3/4 w-5/6 p-4'>
+              <h1 className='text-hl 2xl:text-4xl text-2xl font-bold'>Phase de poules :</h1>
+              <p className='text-white text-xl font-semibold'>{data[selectedId].PDP}</p>
             </div>
-            <div className='flex-1 bg-card rounded-3xl flex flex-col text-left p-4 w-3/4'>
-              <h1 className='text-hl text-4xl font-bold'>Play Off :</h1>
-              <p className='text-white text-2xl font-semibold'>{data[selectedId].PO}</p>
+            <div className='flex-1 bg-card rounded-3xl flex flex-col text-left 2xl:w-3/4 w-5/6 p-4'>
+              <h1 className='text-hl 2xl:text-4xl text-2xl font-bold'>Play Off :</h1>
+              <p className='text-white text-xl font-semibold'>{data[selectedId].PO}</p>
             </div>
           </div>
         </div>
