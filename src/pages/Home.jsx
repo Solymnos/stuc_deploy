@@ -26,7 +26,7 @@ function Home() {
         </ul>
       </div>
       <div className='flex flex-col justify-center flex-2 2xl:flex-3 items-center'>
-        <img className='w-3/4 animate-tiltshaking' src='/img/logo/Shark.png' alt='Wash machine'/>
+        <img className='w-1/2  2xl:w-3/4 animate-tiltshaking' src='/img/logo/Shark.png' alt='Wash machine'/>
       </div>
     </div>
   )

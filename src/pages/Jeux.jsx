@@ -26,10 +26,10 @@ function Jeux() {
     <div id='Jeux' className='h-screen snap-center flex flex-col'>
       <div className='flex flex-col h-full p-5 justify-center items-center gap-5'>
         <TopBar title='Jeux'/>
-        <div className='w-full flex flex-wrap gap-5'>
+        <div className='w-full flex flex-wrap gap-5 items-center justify-center'>
         {
           data.map((item, index) => (
-            <div className={`${selectedId === index ? 'bg-card border text-white' : 'bg-card '} 2xl:flex-1 p-3 flex flex-row justify-center items-center  rounded-2xl gap-5 cursor-pointer`} key={item} onClick={() => handleGameClick(index)}>
+            <div className={`${selectedId === index ? 'bg-card border text-white' : 'bg-card '} 2xl:flex-1 p-3 flex flex-row justify-center items-center  rounded-2xl gap-5 cursor-pointer w-1/5`} key={item} onClick={() => handleGameClick(index)}>
               <img  className='h-12' src={item.icon} alt='game icon'/>
               <h1 className=' hidden 2xl:block 2xl:text-white 2xl:text-xl 2xl:font-bold'>{item.name}</h1>
             </div>
