@@ -8,7 +8,7 @@ import Classement from './pages/Classement';
 
 function App() {
   return (
-    <div className='w-screen h-screen bg-bg snap-y snap-mandatory scroll-smooth overflow-y-auto no-scrollbar'>
+    <div className='w-screen h-[calc(100vh - var(--top-bar-height))] bg-bg snap-y snap-mandatory scroll-smooth overflow-y-auto no-scrollbar'>
         <Home />
         <Format />
         <Calendrier />
