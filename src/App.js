@@ -9,7 +9,7 @@ import Classement from './pages/Classement';
 function App() {
   return (
     <div className='absolute inset-0'>
-      <div className='w-screen h-screen bg-bg snap-y snap-mandatory scroll-smooth overflow-y-auto no-scrollbar'>
+      <div className='absolute inset-0 bg-bg snap-y snap-mandatory scroll-smooth overflow-y-auto no-scrollbar'>
         <Home />
         <Format />
         <Calendrier />
