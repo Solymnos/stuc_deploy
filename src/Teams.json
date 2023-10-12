@@ -6,7 +6,7 @@
             "players" : [
                 {
                     "name" : "Croux",
-                    "discord" : ".nightpenguins_",
+                    "discord" : "np_croux",
                     "icon" : "./img/logo/nulary.png",
                     "RLOL" : "Gold",
                     "LLOL" : "https://www.op.gg/summoners/euw/NLY%20Cr%C3%B8ux",
@@ -25,7 +25,7 @@
                     "name" : "Croniume",
                     "discord" : "croniume",
                     "icon" : "./img/logo/nulary.png",
-                    "RLOL" : "Gold",
+                    "RLOL" : "Platinum",
                     "LLOL" : "https://www.op.gg/summoners/euw/NLY%20Croniume",
                     "RTFT" : "Diamant",
                     "LTFT" : "https://lolchess.gg/profile/euw/nlycroniume/set9.5",
