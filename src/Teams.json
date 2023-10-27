@@ -7,7 +7,7 @@
                 {
                     "name" : "Croux",
                     "discord" : "np_croux",
-                    "icon" : "./img/pp/CROUX.jpg",
+                    "icon" : "./img/PP/CROUX.jpg",
                     "RLOL" : "Gold",
                     "LLOL" : "https://www.op.gg/summoners/euw/NLY%20Cr%C3%B8ux",
                     "RTFT" : "Platinum",
@@ -24,7 +24,7 @@
                 {
                     "name" : "Croniume",
                     "discord" : "croniume",
-                    "icon" : "./img/pp/CRONIUME.jpg",
+                    "icon" : "./img/PP/CRONIUME.jpg",
                     "RLOL" : "Platinum",
                     "LLOL" : "https://www.op.gg/summoners/euw/NLY%20Croniume",
                     "RTFT" : "Diamant",
@@ -41,7 +41,7 @@
                 {
                     "name" : "Ratatouille_hm",
                     "discord" : "ratatouille_hm",
-                    "icon" : "./img/pp/RATATOUILLE.jpg",
+                    "icon" : "./img/PP/RATATOUILLE.jpg",
                     "RLOL" : "Platinum",
                     "LLOL" : "https://www.op.gg/summoners/euw/NLY%20fan%20de%20Pr%C3%B8ux",
                     "RTFT" : "Platinum",
@@ -58,7 +58,7 @@
                 {
                     "name" : "CrazyMattex",
                     "discord" : "crazymattex",
-                    "icon" : "./img/pp/MATTEX.jpg",
+                    "icon" : "./img/PP/MATTEX.jpg",
                     "RLOL" : "Gold",
                     "LLOL" : "https://www.op.gg/summoners/euw/WanderingStars",
                     "RTFT" : "Silver",
@@ -75,7 +75,7 @@
                 {
                     "name" : "Reijin373",
                     "discord" : "reijin373",
-                    "icon" : "./img/pp/REIJIN.jpg",
+                    "icon" : "./img/PP/REIJIN.jpg",
                     "RLOL" : "Gold",
                     "LLOL" : "https://www.op.gg/summoners/euw/NP%20Reijin",
                     "RTFT" : "Diamant",
@@ -92,7 +92,7 @@
                 {
                     "name" : "Proux",
                     "discord" : "prouxprime",
-                    "icon" : "./img/pp/proux.jpg",
+                    "icon" : "./img/PP/proux.jpg",
                     "RLOL" : "Silver",
                     "LLOL" : "https://www.op.gg/summoners/euw/NLY%20Pr%C3%B8ux",
                     "RTFT" : "Gold",
@@ -109,7 +109,7 @@
                 {
                     "name" : "Hipolight",
                     "discord" : "hipolight",
-                    "icon" : "./img/pp/HIPOLIGHT.jpg",
+                    "icon" : "./img/PP/HIPOLIGHT.jpg",
                     "RLOL" : "",
                     "LLOL" : "",
                     "RTFT" : "Unranked",
@@ -132,7 +132,7 @@
                 {
                     "name" : "Jokwin",
                     "discord" : "Jokwin#6364",
-                    "icon" : "./img/pp/JOKWIN.jpg",
+                    "icon" : "./img/PP/JOKWIN.jpg",
                     "RLOL" : "",
                     "LLOL" : "",
                     "RTFT" : "Diamant",
@@ -149,7 +149,7 @@
                 {
                     "name" : "Corti",
                     "discord" : "corti_lztd#4490",
-                    "icon" : "./img/pp/COCO.jpg",
+                    "icon" : "./img/PP/COCO.jpg",
                     "RLOL" : "",
                     "LLOL" : "",
                     "RTFT" : "",
@@ -166,7 +166,7 @@
                 {
                     "name" : "OneHuntMan",
                     "discord" : "OneHuntMan#0001",
-                    "icon" : "./img/pp/ONEHUNTMAN.jpg",
+                    "icon" : "./img/PP/ONEHUNTMAN.jpg",
                     "RLOL" : "Platinum",
                     "LLOL" : "https://www.op.gg/summoners/euw/R212%20Hunty",
                     "RTFT" : "Silver",
@@ -183,7 +183,7 @@
                 {
                     "name" : "Kyoo",
                     "discord" : "kyoojr#4233",
-                    "icon" : "./img/pp/KYOO.jpg",
+                    "icon" : "./img/PP/KYOO.jpg",
                     "RLOL" : "Gold",
                     "LLOL" : "https://www.op.gg/summoners/euw/Kyoo",
                     "RTFT" : "Unranked",
@@ -200,7 +200,7 @@
                 {
                     "name" : "Gaeloum",
                     "discord" : "Gaeloum#8001",
-                    "icon" : "./img/pp/GAELOUM.png",
+                    "icon" : "./img/PP/GAELOUM.png",
                     "RLOL" : "Gold",
                     "LLOL" : "https://www.op.gg/summoners/euw/Gaeloum%20Du%20Webn",
                     "RTFT" : "Diamant",
@@ -217,7 +217,7 @@
                 {
                     "name" : "Snero",
                     "discord" : "Snero#5387",
-                    "icon" : "./img/pp/SNERO.jpg",
+                    "icon" : "./img/PP/SNERO.jpg",
                     "RLOL" : "Platinum",
                     "LLOL" : "https://www.op.gg/summoners/euw/Snero",
                     "RTFT" : "Diamant",
@@ -234,7 +234,7 @@
                 {
                     "name" : "Azothic",
                     "discord" : "Azothic#4332",
-                    "icon" : "./img/pp/AZOTHIC.jpg",
+                    "icon" : "./img/PP/AZOTHIC.jpg",
                     "RLOL" : "Bronze",
                     "LLOL" : "https://www.op.gg/summoners/euw/LaMachineàCaca",
                     "RTFT" : "Unranked",
