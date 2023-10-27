@@ -69,7 +69,7 @@ function Equipes() {
                         <h1 className='text-white font-bold text-2xl'>{player.name}</h1>
                         <h2 className='text-hl font-semibold text-md'>@{player.discord}</h2>
                       </div>
-                      <img className='2xl:w-16 w-14' src={player.icon} alt='player icon'/>
+                      <img className='2xl:w-18 w-16 rounded-full' src={player.icon} alt='player icon'/>
                     </div>
                     <div className='w-full flex-grow flex flex-row'>
                       <div className='h-full flex-1 flex flex-col text-left'>
