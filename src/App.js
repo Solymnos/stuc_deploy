@@ -3,7 +3,6 @@ import Format from './pages/Format';
 import Calendrier from './pages/Calendrier';
 import Jeux from './pages/Jeux';
 import Equipes from './pages/Equipes';
-import Resultats from './pages/Resultats';
 import Classement from './pages/Classement';
 
 function App() {
@@ -15,7 +14,6 @@ function App() {
         <Calendrier />
         <Jeux />
         <Equipes />
-        <Resultats />
         <Classement />
       </div>
     </div>

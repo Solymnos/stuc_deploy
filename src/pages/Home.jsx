@@ -6,7 +6,6 @@ const data = [
   "Calendrier",
   "Jeux", 
   "Equipes",
-  "Résultats",
   "Classement"
 ]
 
