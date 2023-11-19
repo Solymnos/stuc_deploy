@@ -30,7 +30,7 @@ function Classement() {
         { selectType === 'PDP' ? (
         <>
           <div className='bg-card my-auto w-full flex flex-row flex-grow h-12 rounded-xl'>
-            <div className='flex-6'>
+            <div className='flex-7'>
             
             </div>
             <div className='flex-1 items-center justify-center text-center flex'>
@@ -56,6 +56,9 @@ function Classement() {
             {
               teams.map((team, index) => (
                 <div className='bg-card my-auto w-full flex flex-row flex-grow rounded-xl items-center'>
+                  <div className='flex-1 '>
+                    <h1 className='text-white font-bold'>{index + 1}</h1>
+                  </div>
                   <div className='flex-2'>
                     {
                       index !== teams.length - 1 ? (
@@ -65,7 +68,7 @@ function Classement() {
                       )
                     }
                   </div> 
-                  <div className='flex-1'>
+                  <div className='flex-1 flex justify-center'>
                     <img className='max-h-10' src={team.icon} alt='icon of the team'/>
                   </div>
                   <div className='flex-3 flex justify-around items-center'>
