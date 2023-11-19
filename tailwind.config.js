@@ -9,7 +9,9 @@ module.exports = {
       'bg' : '#151c24',
       'card' : '#212b35',
       'hl' : '#f9aa05',
-      'white' : '#ffffff'
+      'white' : '#ffffff',
+      'red' : '#A7001E',
+      'green' : '#7AA95C'
     },
     flex : {
       '1' : '1',

@@ -2,11 +2,11 @@ import React from 'react'
 import TopBar from '../components/TopBar'
 
 let data = [
-  { 'name' : 'Quizz',  'img' : './img/logo/Quizz_o.png'},
-  { 'name' : '?',  'img' : './img/logo/Interrogation.png'},
-  { 'name' : '?',  'img' : './img/logo/Interrogation.png'},
-  { 'name' : '?',  'img' : './img/logo/Interrogation.png'},
-  { 'name' : '?',  'img' : './img/logo/Interrogation.png'},
+  { 'name' : 'Quizz',  'img' : './img/logo/Quizz.png'},
+  { 'name' : 'Fortnite',  'img' : './img/logo/FT.png'},
+  { 'name' : 'Smash',  'img' : './img/logo/SSBU.png'},
+  { 'name' : 'Rocket League',  'img' : './img/logo/RL.png'},
+  { 'name' : 'TFT',  'img' : './img/logo/TFT.png'},
 ]
 
 function Format() {
