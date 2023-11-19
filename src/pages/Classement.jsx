@@ -36,19 +36,19 @@ function Classement() {
             <div className='flex-1 items-center justify-center text-center flex'>
               <h1 className='font-bold text-hl'>Total</h1>
             </div>
-            <div className='flex-1 items-center justify-center text-center flex'>
+            <div className='flex-1 items-center justify-center text-center hidden 2xl:flex'>
               <img className='h-10' src='./img/logo/Quizz.png' alt='game logo'/>
             </div>
-            <div className='flex-1 items-center justify-center text-center flex'>
+            <div className='flex-1 items-center justify-center text-center hidden 2xl:flex'>
               <img className='h-10' src='./img/logo/FT.png' alt='game logo'/>
             </div>
-            <div className='flex-1 items-center justify-center text-center flex'>
+            <div className='flex-1 items-center justify-center text-center hidden 2xl:flex'>
               <img className='h-10' src='./img/logo/SSBU.png' alt='game logo'/>
             </div>
-            <div className='flex-1 items-center justify-center text-center flex'>
+            <div className='flex-1 items-center justify-center text-center hidden 2xl:flex'>
               <img className='h-10' src='./img/logo/TFT.png' alt='game logo'/>
             </div>
-            <div className='flex-1 items-center justify-center text-center flex'>
+            <div className='flex-1 items-center justify-center text-center hidden 2xl:flex'>
               <img className='h-10' src='./img/logo/RL.png' alt='game logo'/>
             </div>
           </div>
@@ -72,22 +72,22 @@ function Classement() {
                     <h1 className='font-bold'>{team.name}</h1>
                   </div>
                   <div className='flex-1'>
-                    <h1>{team.pts}</h1>
+                    <h1 className='font-bold'>{team.pts}</h1>
                   </div>
-                  <div className='flex-1'>
-                    <h1>{team.pts_quizz}</h1>
+                  <div className='hidden 2xl:flex flex-1 justify-center'>
+                    <h1 className='font-bold'>{team.pts_quizz}</h1>
                   </div>
-                  <div className='flex-1'>
-                    <h1>{team.pts_ftn}</h1>
+                  <div className='hidden 2xl:flex flex-1 justify-center'>
+                    <h1 className='font-bold'>{team.pts_ftn}</h1>
                   </div>
-                  <div className='flex-1'>
-                    <h1>{team.pts_ssbu}</h1>
+                  <div className='hidden 2xl:flex flex-1 justify-center'>
+                    <h1 className='font-bold'>{team.pts_ssbu}</h1>
                   </div>
-                  <div className='flex-1'>
-                    <h1>{team.pts_tft}</h1>
+                  <div className='hidden 2xl:flex flex-1 justify-center'>
+                    <h1 className='font-bold'>{team.pts_tft}</h1>
                   </div>
-                  <div className='flex-1'>
-                    <h1>{team.pts_rl}</h1>
+                  <div className='hidden 2xl:flex flex-1 justify-center'>
+                    <h1 className='font-bold'>{team.pts_rl}</h1>
                   </div>
                 </div>
               ))
