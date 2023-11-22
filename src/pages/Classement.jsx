@@ -98,7 +98,7 @@ function Classement() {
           </div>
         </>
           ) : (
-          <p className='text-white font-bold 2xl:text-8xl text-5xl'>Les phases finales n'ont pas encore commencées !</p>
+          <p className='text-white font-bold 2xl:text-8xl text-5xl'>Les phases finales n'ont pas encore commencé !</p>
           )
         }
         </div>
