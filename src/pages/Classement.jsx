@@ -3,15 +3,15 @@ import TopBar from '../components/TopBar'
 
 let teams  = 
 [
-  { 'name' : 'NULARY', 'icon' : './img/logo/nulary.png', 'pts' : '15', 'pts_quizz' : '5', 'pts_ftn' : '10', 'pts_ssbu' : '?', 'pts_tft' : '?', 'pts_rl' : '?'},
-  { 'name' : 'LOST AUTISTOS 93', 'icon' : './img/logo/LA93.png', 'pts' : '15', 'pts_quizz' : '8', 'pts_ftn' : '7', 'pts_ssbu' : '?', 'pts_tft' : '?', 'pts_rl' : '?'},
-  { 'name' : 'POLARY', 'icon' : './img/logo/Polary.png', 'pts' : '11', 'pts_quizz' : '10', 'pts_ftn' : '1', 'pts_ssbu' : '?', 'pts_tft' : '?', 'pts_rl' : '?'},
-  { 'name' : 'CALECON FREEGUN', 'icon' : './img/logo/CF.png', 'pts' : '10', 'pts_quizz' : '8', 'pts_ftn' : '2', 'pts_ssbu' : '?', 'pts_tft' : '?', 'pts_rl' : '?'},
-  { 'name' : 'EXODIA', 'icon' : './img/logo/Exodia.png', 'pts' : '10', 'pts_quizz' : '2', 'pts_ftn' : '8', 'pts_ssbu' : '?', 'pts_tft' : '?', 'pts_rl' : '?'},
-  { 'name' : 'SLYP', 'icon' : './img/logo/SLYP.png', 'pts' : '10', 'pts_quizz' : '4', 'pts_ftn' : '6', 'pts_ssbu' : '?', 'pts_tft' : '?', 'pts_rl' : '?'},
-  { 'name' : 'GG CALL DOG', 'icon' : './img/logo/GGCDO.png', 'pts' : '9', 'pts_quizz' : '6', 'pts_ftn' : '3', 'pts_ssbu' : '?', 'pts_tft' : '?', 'pts_rl' : '?'},
-  { 'name' : 'GG CALL DRAKE', 'icon' : './img/logo/GGCDR.png', 'pts' : '8', 'pts_quizz' : '3', 'pts_ftn' : '5', 'pts_ssbu' : '?', 'pts_tft' : '?', 'pts_rl' : '?'},
-  { 'name' : 'UNO', 'icon' : './img/logo/UNO.png', 'pts' : '5', 'pts_quizz' : '1', 'pts_ftn' : '4', 'pts_ssbu' : '?', 'pts_tft' : '?', 'pts_rl' : '?'},
+  { 'name' : 'NULARY', 'icon' : './img/logo/nulary.png', 'pts' : '22', 'pts_quizz' : '5', 'pts_ftn' : '10', 'pts_ssbu' : '7', 'pts_tft' : '?', 'pts_rl' : '?'},
+  { 'name' : 'CALECON FREEGUN', 'icon' : './img/logo/CF.png', 'pts' : '20', 'pts_quizz' : '8', 'pts_ftn' : '2', 'pts_ssbu' : '10', 'pts_tft' : '?', 'pts_rl' : '?'},
+  { 'name' : 'LOST AUTISTOS 93', 'icon' : './img/logo/LA93.png', 'pts' : '20', 'pts_quizz' : '8', 'pts_ftn' : '7', 'pts_ssbu' : '5', 'pts_tft' : '?', 'pts_rl' : '?'},
+  { 'name' : 'EXODIA', 'icon' : './img/logo/Exodia.png', 'pts' : '18', 'pts_quizz' : '2', 'pts_ftn' : '8', 'pts_ssbu' : '8', 'pts_tft' : '?', 'pts_rl' : '?'},
+  { 'name' : 'SLYP', 'icon' : './img/logo/SLYP.png', 'pts' : '14', 'pts_quizz' : '4', 'pts_ftn' : '6', 'pts_ssbu' : '4', 'pts_tft' : '?', 'pts_rl' : '?'},
+  { 'name' : 'GG CALL DRAKE', 'icon' : './img/logo/GGCDR.png', 'pts' : '14', 'pts_quizz' : '3', 'pts_ftn' : '5', 'pts_ssbu' : '6', 'pts_tft' : '?', 'pts_rl' : '?'},
+  { 'name' : 'POLARY', 'icon' : './img/logo/Polary.png', 'pts' : '13', 'pts_quizz' : '10', 'pts_ftn' : '1', 'pts_ssbu' : '2', 'pts_tft' : '?', 'pts_rl' : '?'},
+  { 'name' : 'GG CALL DOG', 'icon' : './img/logo/GGCDO.png', 'pts' : '12', 'pts_quizz' : '6', 'pts_ftn' : '3', 'pts_ssbu' : '3', 'pts_tft' : '?', 'pts_rl' : '?'},
+  { 'name' : 'UNO', 'icon' : './img/logo/UNO.png', 'pts' : '6', 'pts_quizz' : '1', 'pts_ftn' : '4', 'pts_ssbu' : '1', 'pts_tft' : '?', 'pts_rl' : '?'},
 ]
 
 function Classement() {
