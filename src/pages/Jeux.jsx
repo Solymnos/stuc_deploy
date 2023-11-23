@@ -4,7 +4,7 @@ import TopBar from '../components/TopBar';
 let data = 
 [
   { 'name' : 'LoL', 'icon' : './img/logo/LOL.png', 'img' : './img/Lol.gif', 'PDP' : 'Tournoi 2v2 avec 2 équipes de 2 joueurs par team' , 'PO' : 'BO1 en 5v5, game normale de LoL, le perdant du 2ème jeu choisit le side.'},
-  { 'name' : 'RL', 'icon' : './img/logo/RL.png','img' : './img/RL.gif', 'PDP' : 'Rondes suisses BO3', 'PO' : 'BO5 en 3v3' },
+  { 'name' : 'RL', 'icon' : './img/logo/RL.png','img' : './img/RL.gif', 'PDP' : 'Format ligue BO2, tout le monde affronte tout le monde', 'PO' : 'BO5 en 3v3' },
   { 'name' : 'Valorant', 'icon' : './img/logo/VL.png','img' : './img/Valo.gif', 'PDP' : 'Rondes suisses, mode SWIFTPLAY', 'PO' : 'BO1 en 5v5'},
   { 'name' : 'TFT', 'icon' : './img/logo/TFT.png','img' : './img/TFT.gif', 'PDP' : '4 joueurs par équipes, format Hexleague', 'PO' : '1 game en 4v4' },
   { 'name' : 'Fortnite', 'icon' : './img/logo/FT.png','img' : './img/Fortnite.gif', 'PDP' : 'Format à determiner', 'PO' : 'Duel Custom en 3v3' },
