@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import TopBar from '../components/TopBar'
+import { Bracket } from 'react-brackets';
 
 let teams  = 
 [
@@ -13,6 +14,54 @@ let teams  =
   { 'name' : 'GG CALL DOG', 'icon' : './img/logo/GGCDO.png', 'pts' : '19', 'pts_quizz' : '6', 'pts_ftn' : '3', 'pts_ssbu' : '3', 'pts_tft' : '2', 'pts_rl' : '5'},
   { 'name' : 'SLYP', 'icon' : './img/logo/SLYP.png', 'pts' : '19', 'pts_quizz' : '4', 'pts_ftn' : '6', 'pts_ssbu' : '4', 'pts_tft' : '1', 'pts_rl' : '4'},
 ]
+
+let rounds = [
+  {
+    title: '1/4 Finale',
+    seeds: [
+      {
+        id: 1,
+        teams: [{ name: 'EXODIA', score : '3' }, { name: 'GG CALL DOG', score : '0' }],
+      },
+      {
+        id: 2,
+        teams: [{ name: 'CALECON FREEGUN' }, { name: 'POLARY' }],
+      },
+      {
+        id: 3,
+        teams: [{ name: 'UNO' }, { name: 'NULARY' }],
+      },
+      {
+        id: 4,
+        teams: [{ name: 'LOS AUTISTO 93' }, { name: 'GG CALL DRAKE' }],
+      }
+    ],
+  },
+  {
+    title: '1/2 Finale',
+    seeds: [
+      {
+        id: 5,
+        teams: [{ name: 'EXODIA' }, { name: 'CALECON FREEGUN' }],
+      },
+      {
+        id: 6,
+        teams: [{ name: 'NULARY' }, { name: 'LOS AUTISTO 93' }],
+      },
+    ],
+  },
+  {
+    title : 'Finale',
+    seeds: [
+      {
+        id:7,
+        teams: [{name: '???'}, {name: '???'}]
+      }
+    ]
+  }
+]
+
+
 
 function Classement() {
 
@@ -98,7 +147,12 @@ function Classement() {
           </div>
         </>
           ) : (
-          <p className='text-white font-bold 2xl:text-8xl text-5xl'>Les phases finales n'ont pas encore commencé !</p>
+          <div className='flex justify-center items-center'>
+            <div>
+              <Bracket rounds={rounds} />
+            </div>
+          </div>
+            
           )
         }
         </div>
