@@ -1,0 +1,288 @@
+{
+    "divisions" : [
+        {
+            "ranking" : [
+                {
+                    "name" : "Uwanted Union",
+                    "win" : 5,
+                    "lose" : 1,
+                    "played" : 3,
+                    "logo" : "/UWU.webp"
+                },
+                {
+                    "name" : "Mad Matous",
+                    "win" : 3,
+                    "lose" : 1,
+                    "played" : 2,
+                    "logo" : "/MM.webp"
+                },
+                {
+                    "name" : "Nulary",
+                    "win" : 2,
+                    "lose" : 0,
+                    "played" : 1,
+                    "logo" : "/NLY.webp"
+                },
+                {
+                    "name" : "Burger Industries",
+                    "win" : 2,
+                    "lose" : 2,
+                    "played" : 2,
+                    "logo" : "/BI.webp"
+                },
+                {
+                    "name" : "OPC Jonquera Recherche Latina92",
+                    "win" : 2,
+                    "lose" : 2,
+                    "played" : 2,
+                    "logo" : "/OPC.webp"
+                },
+                {
+                    "name" : "Neuille Eleven 49.3",
+                    "win" : 1,
+                    "lose" : 1,
+                    "played" : 1,
+                    "logo" : "/NE49.webp"
+                },
+                {
+                    "name" : "Leaderprice",
+                    "win" : 1,
+                    "lose" : 1,
+                    "played" : 1,
+                    "logo" : "/LP.webp"
+                },
+                {
+                    "name" : "NPC",
+                    "win" : 1,
+                    "lose" : 3,
+                    "played" : 2,
+                    "logo" : "/NPC.webp"
+                },
+                {
+                    "name" : "Breizh 212",
+                    "win" : 1,
+                    "lose" : 3,
+                    "played" : 2,
+                    "logo" : "/BZH212.webp"
+                },
+                {
+                    "name" : "GG Call Drake",
+                    "win" : 0,
+                    "lose" : 4,
+                    "played" : 2,
+                    "logo" : "/GGCD.webp"
+                }
+            ],
+            "schedule" : [
+    
+            ],
+            "over" : [
+    
+            ]
+        },
+        {
+            "ranking" : [
+                {
+                    "name" : "Sans titre.webp",
+                    "win" : 7,
+                    "lose" : 1,
+                    "played" : 4,
+                    "logo" : "/STP.webp"
+                },
+                {
+                    "name" : "Anti Tapas Army",
+                    "win" : 4,
+                    "lose" : 0,
+                    "played" : 2,
+                    "logo" : "/ATA.webp"
+                },
+                {
+                    "name" : "The Farmers Corp",
+                    "win" : 2,
+                    "lose" : 2,
+                    "played" : 2,
+                    "logo" : "/TFC.webp"
+                },
+                {
+                    "name" : "Esquinté ONE",
+                    "win" : 2,
+                    "lose" : 2,
+                    "played" : 2,
+                    "logo" : "/SKT1.webp"
+                },
+                {
+                    "name" : "Pas Toxic Sans Déconner",
+                    "win" : 1,
+                    "lose" : 1,
+                    "played" : 1,
+                    "logo" : "/PTSD.webp"
+                },
+                {
+                    "name" : "SLYP",
+                    "win" : 1,
+                    "lose" : 3,
+                    "played" : 2,
+                    "logo" : "/SLYP.webp"
+                },
+                {
+                    "name" : "Humain Littéralement Eclatés",
+                    "win" : 1,
+                    "lose" : 3,
+                    "played" : 2,
+                    "logo" : "/HLE.webp"
+                },
+                {
+                    "name" : "La Confrérie du Wabbit",
+                    "win" : 0,
+                    "lose" : 0,
+                    "played" : 0,
+                    "logo" : "/CDW.webp"
+                },
+                {
+                    "name" : "Melty Ephad Club",
+                    "win" : 0,
+                    "lose" : 2,
+                    "played" : 1,
+                    "logo" : "/MEC.webp"
+                },
+                {
+                    "name" : "CaleconFreegun",
+                    "win" : 0,
+                    "lose" : 4,
+                    "played" : 2,
+                    "logo" : "/CFG.webp"
+                }
+            ],
+            "schedule" : [
+
+            ],
+            "over" : [
+                {
+                    "team1" : "STP",
+                    "team2" : "TFC",
+                    "logo1" : "/STP.webp",
+                    "logo2" : "/TFC.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
+                {
+                    "team1" : "TFC",
+                    "team2" : "HLE",
+                    "logo1" : "/TFC.webp",
+                    "logo2" : "/HLE.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
+                {
+                    "team1" : "STP",
+                    "team2" : "PTSD",
+                    "logo1" : "/STP.webp",
+                    "logo2" : "/PTSD.webp",
+                    "score1" : 1,
+                    "score2" : 1
+                },
+                {
+                    "team1" : "STP",
+                    "team2" : "CFG",
+                    "logo1" : "/STP.webp",
+                    "logo2" : "/CFG.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
+                {
+                    "team1" : "SLYP",
+                    "team2" : "HLE",
+                    "logo1" : "/SLYP.webp",
+                    "logo2" : "/HLE.webp",
+                    "score1" : 1,
+                    "score2" : 1
+                },
+                {
+                    "team1" : "ATA",
+                    "team2" : "S1T",
+                    "logo1" : "/ATA.webp",
+                    "logo2" : "/SKT1.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
+                {
+                    "team1" : "STP",
+                    "team2" : "SLYP",
+                    "logo1" : "/STP.webp",
+                    "logo2" : "/SLYP.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
+                {
+                    "team1" : "S1T",
+                    "team2" : "CFG",
+                    "logo1" : "/SKT1.webp",
+                    "logo2" : "/CFG.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
+                {
+                    "team1" : "MEC",
+                    "team2" : "ATA",
+                    "logo1" : "/MEC.webp",
+                    "logo2" : "/ATA.webp",
+                    "score1" : 0,
+                    "score2" : 2
+                }
+            ]
+        },
+        {
+            "ranking" : [
+                {
+                    "name" : "Bebou Squad",
+                    "win" : 2,
+                    "lose" : 0,
+                    "played" : 2,
+                    "logo" : "/BBS.webp"
+                },
+                {
+                    "name" : "FC Guinguette",
+                    "win" : 2,
+                    "lose" : 1,
+                    "played" : 3,
+                    "logo" : "/FCG.webp"
+                },
+                {
+                    "name" : "Caca Chaussette",
+                    "win" : 2,
+                    "lose" : 2,
+                    "played" : 4,
+                    "logo" : "/KKC.webp"
+                },
+                {
+                    "name" : "Bad Lions",
+                    "win" : 1,
+                    "lose" : 1,
+                    "played" : 2,
+                    "logo" : "/BL.webp"
+                },
+                {
+                    "name" : "Brutalizer 212",
+                    "win" : 0,
+                    "lose" : 1,
+                    "played" : 1,
+                    "logo" : "/BTZ.webp"
+                },
+                {
+                    "name" : "Bienveillance MAX",
+                    "win" : 0,
+                    "lose" : 2,
+                    "played" : 2,
+                    "logo" : "/BM.webp"
+                }
+            ],
+            "schedule" : [
+    
+            ],
+            "over" : [
+    
+            ]
+        }
+    ]
+}
+
