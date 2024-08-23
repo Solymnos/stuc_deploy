@@ -124,7 +124,7 @@ const TabLine = styled.div`
 const TabLineT = styled.div`
   width: 100%;
   color : black;
-  background-color: white;
+  background-color: rgba(255,255,255,0.75);
   display: flex;
   flex-direction: row;
   border: solid white 1px;
