@@ -259,9 +259,9 @@ function App() {
             <TabLineT>
               <ElementContainer></ElementContainer>
               <NameContainer></NameContainer>
-              <ElementContainer>Joué</ElementContainer>
-              <ElementContainer>Gagné</ElementContainer>
-              <ElementContainer>Perdu</ElementContainer>
+              <ElementContainer>Joués</ElementContainer>
+              <ElementContainer>Gagnés</ElementContainer>
+              <ElementContainer>Perdus</ElementContainer>
             </TabLineT>
             <TabContainer>
             {
