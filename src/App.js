@@ -245,7 +245,7 @@ function App() {
 
   return (
     <>
-    <Background style={{backgroundImage : 'url(/okay.webp)'}}/>
+    <Background style={{backgroundImage : 'url(/okay.png)'}}/>
       <ContentContainer>
         <LogoContainer>
           <Logo src='/title.webp' />
