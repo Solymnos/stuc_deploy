@@ -144,6 +144,7 @@ const NameContainer = styled.div`
   font-size: large;
   align-items: center;
   display: flex;
+  padding-left:0.35rem;
 `
 
 const ContentContainer = styled.div`
