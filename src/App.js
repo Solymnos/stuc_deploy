@@ -121,6 +121,21 @@ const TabLine = styled.div`
   max-height: 5rem;
 `
 
+const TabLineT = styled.div`
+  width: 100%;
+  color : black;
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  border: solid white 1px;
+  border-radius: 1rem;
+  padding: 0.5rem;
+  box-sizing : border-box;
+  min-height: 5rem;
+  max-height: 5rem;
+  margin-bottom: 0.5rem;
+`
+
 const TeamLogo = styled.img`
   height: auto;
   width: auto;
@@ -241,6 +256,13 @@ function App() {
         <DisplayContainer>
           <LeftContainer>
             <Title>Classement :</Title>
+            <TabLineT>
+              <ElementContainer></ElementContainer>
+              <NameContainer></NameContainer>
+              <ElementContainer>Joué</ElementContainer>
+              <ElementContainer>Gagné</ElementContainer>
+              <ElementContainer>Perdu</ElementContainer>
+            </TabLineT>
             <TabContainer>
             {
               data.divisions[div].ranking.map((team) => (
