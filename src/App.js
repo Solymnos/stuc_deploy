@@ -154,6 +154,9 @@ const ContentContainer = styled.div`
   gap: 2rem;
   padding : 5rem;
   box-sizing: border-box;
+  @media (max-width:768px) {
+    padding: 0.5rem;
+  }
 `
 
 const DisplayContainer = styled.div`
