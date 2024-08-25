@@ -74,10 +74,96 @@
                 }
             ],
             "schedule" : [
-    
+                {
+                    "team1" : "LP",
+                    "team2" : "MM",
+                    "logo1" : "/LP.webp",
+                    "logo2" : "/MM.webp",
+                    "date" : "26 Aout",
+                    "heure" : "21h30"
+                },
+                {
+                    "team1" : "BI",
+                    "team2" : "OPC",
+                    "logo1" : "/BI.webp",
+                    "logo2" : "/OPC.webp",
+                    "date" : "27 Aout",
+                    "heure" : "21h00"
+                }
             ],
             "over" : [
-    
+                {
+                    "team1" : "UWU",
+                    "team2" : "NPC",
+                    "logo1" : "/UWU.webp",
+                    "logo2" : "/NPC.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
+                {
+                    "team1" : "LP",
+                    "team2" : "OPC",
+                    "logo1" : "/LP.webp",
+                    "logo2" : "/OPC.webp",
+                    "score1" : 1,
+                    "score2" : 1
+                },
+                {
+                    "team1" : "UWU",
+                    "team2" : "BZH",
+                    "logo1" : "/UWU.webp",
+                    "logo2" : "/BZH.webp",
+                    "score1" : 1,
+                    "score2" : 1
+                },
+                {
+                    "team1" : "UWU",
+                    "team2" : "BI",
+                    "logo1" : "/UWU.webp",
+                    "logo2" : "/BI.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
+                {
+                    "team1" : "MM",
+                    "team2" : "GGCD",
+                    "logo1" : "/MM.webp",
+                    "logo2" : "/GGCD.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
+                {
+                    "team1" : "NLY",
+                    "team2" : "GGCD",
+                    "logo1" : "/NLY.webp",
+                    "logo2" : "/GGCD.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
+                {
+                    "team1" : "NPC",
+                    "team2" : "NE94",
+                    "logo1" : "/NPC.webp",
+                    "logo2" : "/NE49.webp",
+                    "score1" : 1,
+                    "score2" : 1
+                },
+                {
+                    "team1" : "MM",
+                    "team2" : "NPC",
+                    "logo1" : "/MM.webp",
+                    "logo2" : "/NPC.webp",
+                    "score1" : 1,
+                    "score2" : 1
+                },
+                {
+                    "team1" : "BI",
+                    "team2" : "BZH212",
+                    "logo1" : "/BI.webp",
+                    "logo2" : "/BZH212.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                }
             ]
         },
         {
@@ -280,9 +366,63 @@
     
             ],
             "over" : [
-    
+                {
+                    "team1" : "BL",
+                    "team2" : "KKC",
+                    "logo1" : "/BL.webp",
+                    "logo2" : "/KKC.webp",
+                    "score1" : 2,
+                    "score2" : 1
+                },
+                {
+                    "team1" : "BL",
+                    "team2" : "BBS",
+                    "logo1" : "/BL.webp",
+                    "logo2" : "/BBS.webp",
+                    "score1" : 0,
+                    "score2" : 2
+                },
+                {
+                    "team1" : "KKC",
+                    "team2" : "BM",
+                    "logo1" : "/KKC.webp",
+                    "logo2" : "/BM.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
+                {
+                    "team1" : "FCG",
+                    "team2" : "KKC",
+                    "logo1" : "/FCG.webp",
+                    "logo2" : "/KKC.webp",
+                    "score1" : 2,
+                    "score2" : 1
+                },
+                {
+                    "team1" : "BBS",
+                    "team2" : "FCG",
+                    "logo1" : "/BBS.webp",
+                    "logo2" : "/FCG.webp",
+                    "score1" : 2,
+                    "score2" : 1
+                },
+                {
+                    "team1" : "FCG",
+                    "team2" : "BM",
+                    "logo1" : "/FCG.webp",
+                    "logo2" : "/BM.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
+                {
+                    "team1" : "KKC",
+                    "team2" : "BTZ",
+                    "logo1" : "/KKC.webp",
+                    "logo2" : "/BTZ.webp",
+                    "score1" : 2,
+                    "score2" : 1
+                }
             ]
         }
     ]
 }
-
