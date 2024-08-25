@@ -183,6 +183,13 @@
                     "logo" : "/ATA.webp"
                 },
                 {
+                    "name" : "Pas Toxic Sans Déconner",
+                    "win" : 3,
+                    "lose" : 1,
+                    "played" : 2,
+                    "logo" : "/PTSD.webp"
+                },
+                {
                     "name" : "The Farmers Corp",
                     "win" : 2,
                     "lose" : 2,
@@ -197,25 +204,18 @@
                     "logo" : "/SKT1.webp"
                 },
                 {
-                    "name" : "Pas Toxic Sans Déconner",
-                    "win" : 1,
-                    "lose" : 1,
-                    "played" : 1,
-                    "logo" : "/PTSD.webp"
-                },
-                {
-                    "name" : "SLYP",
-                    "win" : 1,
-                    "lose" : 3,
-                    "played" : 2,
-                    "logo" : "/SLYP.webp"
-                },
-                {
                     "name" : "Humain Littéralement Eclatés",
                     "win" : 1,
                     "lose" : 3,
                     "played" : 2,
                     "logo" : "/HLE.webp"
+                },
+                {
+                    "name" : "SLYP",
+                    "win" : 1,
+                    "lose" : 5,
+                    "played" : 3,
+                    "logo" : "/SLYP.webp"
                 },
                 {
                     "name" : "La Confrérie du Wabbit",
@@ -243,6 +243,14 @@
 
             ],
             "over" : [
+                {
+                    "team1" : "PTSD",
+                    "team2" : "SLYP",
+                    "logo1" : "/PTSD.webp",
+                    "logo2" : "/SLYP.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
                 {
                     "team1" : "STP",
                     "team2" : "TFC",
@@ -426,3 +434,4 @@
         }
     ]
 }
+
