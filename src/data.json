@@ -86,7 +86,7 @@
                     "team1" : "BI",
                     "team2" : "OPC",
                     "logo1" : "/BI.webp",
-                    "logo2" : "/OPC.webp",
+                    "logo2" : "/CLOWN.webp",
                     "date" : "27 Aout",
                     "heure" : "21h00"
                 }
@@ -104,7 +104,7 @@
                     "team1" : "LP",
                     "team2" : "OPC",
                     "logo1" : "/LP.webp",
-                    "logo2" : "/OPC.webp",
+                    "logo2" : "/CLOWN.webp",
                     "score1" : 1,
                     "score2" : 1
                 },
@@ -112,7 +112,7 @@
                     "team1" : "UWU",
                     "team2" : "BZH",
                     "logo1" : "/UWU.webp",
-                    "logo2" : "/BZH.webp",
+                    "logo2" : "/BZH212.webp",
                     "score1" : 1,
                     "score2" : 1
                 },
@@ -386,7 +386,7 @@
                     "team1" : "BL",
                     "team2" : "BBS",
                     "logo1" : "/BL.webp",
-                    "logo2" : "/BBS.webp",
+                    "logo2" : "/CLOWN.webp",
                     "score1" : 0,
                     "score2" : 2
                 },
@@ -409,7 +409,7 @@
                 {
                     "team1" : "BBS",
                     "team2" : "FCG",
-                    "logo1" : "/BBS.webp",
+                    "logo1" : "/CLOWN.webp",
                     "logo2" : "/FCG.webp",
                     "score1" : 2,
                     "score2" : 1
