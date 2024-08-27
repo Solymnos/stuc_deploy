@@ -110,7 +110,8 @@ const TabContainer = styled.div`
 
 const TabLine = styled.div`
   width: 100%;
-  color : white;
+  color : black;
+  background-color : rgb(255,255,255,0.7);
   display: flex;
   flex-direction: row;
   border: solid white 1px;
