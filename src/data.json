@@ -6,70 +6,70 @@
                     "name" : "Uwanted Union",
                     "win" : 5,
                     "lose" : 1,
-                    "played" : 3,
+                    "played" : 6,
                     "logo" : "/UWU.webp"
                 },
                 {
                     "name" : "Mad Matous",
                     "win" : 5,
                     "lose" : 1,
-                    "played" : 3,
+                    "played" : 6,
                     "logo" : "/MM.webp"
                 },
                 {
                     "name" : "Nulary",
                     "win" : 2,
                     "lose" : 0,
-                    "played" : 1,
+                    "played" : 2,
                     "logo" : "/NLY.webp"
                 },
                 {
                     "name" : "Burger Industries",
                     "win" : 2,
                     "lose" : 2,
-                    "played" : 2,
+                    "played" : 4,
                     "logo" : "/BI.webp"
                 },
                 {
                     "name" : "OPC Jonquera Recherche Latina92",
                     "win" : 2,
                     "lose" : 2,
-                    "played" : 2,
+                    "played" : 4,
                     "logo" : "/CLOWN.webp"
                 },
                 {
                     "name" : "Neuille Eleven 49.3",
                     "win" : 1,
                     "lose" : 1,
-                    "played" : 1,
+                    "played" : 2,
                     "logo" : "/NE49.webp"
                 },
                 {
                     "name" : "Leaderprice",
                     "win" : 1,
                     "lose" : 3,
-                    "played" : 2,
+                    "played" : 4,
                     "logo" : "/LP.webp"
                 },
                 {
                     "name" : "NPC",
                     "win" : 1,
                     "lose" : 3,
-                    "played" : 2,
+                    "played" : 4,
                     "logo" : "/NPC.webp"
                 },
                 {
                     "name" : "Breizh 212",
                     "win" : 1,
                     "lose" : 3,
-                    "played" : 2,
+                    "played" : 4,
                     "logo" : "/BZH212.webp"
                 },
                 {
                     "name" : "GG Call Drake",
                     "win" : 0,
                     "lose" : 4,
-                    "played" : 2,
+                    "played" : 4,
                     "logo" : "/GGCD.webp"
                 }
             ],
@@ -81,6 +81,14 @@
                     "logo2" : "/CLOWN.webp",
                     "date" : "27 Aout",
                     "heure" : "21h00"
+                },
+                {
+                    "team1" : "NLY",
+                    "team2" : "NE49",
+                    "logo1" : "/NLY.webp",
+                    "logo2" : "/NE49.webp",
+                    "date" : "30 Aout",
+                    "heure" : "21h30"
                 }
             ],
             "over" : [
@@ -172,49 +180,49 @@
                     "name" : "Sans titre.webp",
                     "win" : 7,
                     "lose" : 1,
-                    "played" : 4,
+                    "played" : 8,
                     "logo" : "/STP.webp"
                 },
                 {
                     "name" : "Anti Tapas Army",
                     "win" : 4,
                     "lose" : 0,
-                    "played" : 2,
+                    "played" : 4,
                     "logo" : "/ATA.webp"
                 },
                 {
                     "name" : "Pas Toxic Sans Déconner",
                     "win" : 3,
                     "lose" : 1,
-                    "played" : 2,
+                    "played" : 4,
                     "logo" : "/PTSD.webp"
                 },
                 {
                     "name" : "The Farmers Corp",
                     "win" : 2,
                     "lose" : 2,
-                    "played" : 2,
+                    "played" : 4,
                     "logo" : "/TFC.webp"
                 },
                 {
                     "name" : "Esquinté ONE",
                     "win" : 2,
                     "lose" : 2,
-                    "played" : 2,
+                    "played" : 4,
                     "logo" : "/SKT1.webp"
                 },
                 {
                     "name" : "Humain Littéralement Eclatés",
                     "win" : 1,
                     "lose" : 3,
-                    "played" : 2,
+                    "played" : 4,
                     "logo" : "/HLE.webp"
                 },
                 {
                     "name" : "SLYP",
                     "win" : 1,
                     "lose" : 5,
-                    "played" : 3,
+                    "played" : 6,
                     "logo" : "/SLYP.webp"
                 },
                 {
@@ -228,14 +236,14 @@
                     "name" : "Melty Ephad Club",
                     "win" : 0,
                     "lose" : 2,
-                    "played" : 1,
+                    "played" : 2,
                     "logo" : "/MEC.webp"
                 },
                 {
                     "name" : "CaleconFreegun",
                     "win" : 0,
                     "lose" : 4,
-                    "played" : 2,
+                    "played" : 4,
                     "logo" : "/CFG.webp"
                 }
             ],
