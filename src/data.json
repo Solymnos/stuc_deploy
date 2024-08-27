@@ -248,7 +248,14 @@
                 }
             ],
             "schedule" : [
-
+                {
+                    "team1" : "S1T",
+                    "team2" : "MEC",
+                    "logo1" : "/SKT1.webp",
+                    "logo2" : "/MEC.webp",
+                    "date" : "30 Aout",
+                    "heure" : "21h00"
+                }
             ],
             "over" : [
                 {
