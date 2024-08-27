@@ -11,9 +11,9 @@
                 },
                 {
                     "name" : "Mad Matous",
-                    "win" : 3,
+                    "win" : 5,
                     "lose" : 1,
-                    "played" : 2,
+                    "played" : 3,
                     "logo" : "/MM.webp"
                 },
                 {
@@ -47,8 +47,8 @@
                 {
                     "name" : "Leaderprice",
                     "win" : 1,
-                    "lose" : 1,
-                    "played" : 1,
+                    "lose" : 3,
+                    "played" : 2,
                     "logo" : "/LP.webp"
                 },
                 {
@@ -75,14 +75,6 @@
             ],
             "schedule" : [
                 {
-                    "team1" : "LP",
-                    "team2" : "MM",
-                    "logo1" : "/LP.webp",
-                    "logo2" : "/MM.webp",
-                    "date" : "26 Aout",
-                    "heure" : "21h30"
-                },
-                {
                     "team1" : "BI",
                     "team2" : "OPC",
                     "logo1" : "/BI.webp",
@@ -92,6 +84,14 @@
                 }
             ],
             "over" : [
+                {
+                    "team1" : "MM",
+                    "team2" : "LP",
+                    "logo1" : "/MM.webp",
+                    "logo2" : "/LP.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
                 {
                     "team1" : "UWU",
                     "team2" : "NPC",
