@@ -386,7 +386,14 @@
                 }
             ],
             "schedule" : [
-    
+                {
+                    "team1" : "BL",
+                    "team2" : "BM",
+                    "logo1" : "/BL.webp",
+                    "logo2" : "/BM.webp",
+                    "date" : "30 Aout",
+                    "heure" : "21h00"
+                }
             ],
             "over" : [
                 {
