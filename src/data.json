@@ -17,6 +17,13 @@
                     "logo" : "/MM.webp"
                 },
                 {
+                    "name" : "Burger Industries",
+                    "win" : 4,
+                    "lose" : 2,
+                    "played" : 6,
+                    "logo" : "/BI.webp"
+                },
+                {
                     "name" : "Nulary",
                     "win" : 2,
                     "lose" : 0,
@@ -24,17 +31,10 @@
                     "logo" : "/NLY.webp"
                 },
                 {
-                    "name" : "Burger Industries",
-                    "win" : 2,
-                    "lose" : 2,
-                    "played" : 4,
-                    "logo" : "/BI.webp"
-                },
-                {
                     "name" : "OPC Jonquera Recherche Latina92",
                     "win" : 2,
-                    "lose" : 2,
-                    "played" : 4,
+                    "lose" : 4,
+                    "played" : 6,
                     "logo" : "/CLOWN.webp"
                 },
                 {
@@ -75,14 +75,6 @@
             ],
             "schedule" : [
                 {
-                    "team1" : "BI",
-                    "team2" : "OPC",
-                    "logo1" : "/BI.webp",
-                    "logo2" : "/CLOWN.webp",
-                    "date" : "27 Aout",
-                    "heure" : "21h00"
-                },
-                {
                     "team1" : "NLY",
                     "team2" : "NE49",
                     "logo1" : "/NLY.webp",
@@ -92,6 +84,14 @@
                 }
             ],
             "over" : [
+                {
+                    "team1" : "BI",
+                    "team2" : "OPC",
+                    "logo1" : "/BI.webp",
+                    "logo2" : "/OPC.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
                 {
                     "team1" : "MM",
                     "team2" : "LP",
