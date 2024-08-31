@@ -198,6 +198,13 @@
                     "logo" : "/PTSD.webp"
                 },
                 {
+                    "name" : "Esquinté ONE",
+                    "win" : 3,
+                    "lose" : 3,
+                    "played" : 6,
+                    "logo" : "/SKT1.webp"
+                },
+                {
                     "name" : "The Farmers Corp",
                     "win" : 2,
                     "lose" : 2,
@@ -205,18 +212,18 @@
                     "logo" : "/TFC.webp"
                 },
                 {
-                    "name" : "Esquinté ONE",
-                    "win" : 2,
-                    "lose" : 2,
-                    "played" : 4,
-                    "logo" : "/SKT1.webp"
-                },
-                {
                     "name" : "Humain Littéralement Eclatés",
                     "win" : 1,
                     "lose" : 3,
                     "played" : 4,
                     "logo" : "/HLE.webp"
+                },
+                {
+                    "name" : "Melty Ephad Club",
+                    "win" : 1,
+                    "lose" : 3,
+                    "played" : 4,
+                    "logo" : "/MEC.webp"
                 },
                 {
                     "name" : "SLYP",
@@ -233,13 +240,6 @@
                     "logo" : "/CDW.webp"
                 },
                 {
-                    "name" : "Melty Ephad Club",
-                    "win" : 0,
-                    "lose" : 2,
-                    "played" : 2,
-                    "logo" : "/MEC.webp"
-                },
-                {
                     "name" : "CaleconFreegun",
                     "win" : 0,
                     "lose" : 4,
@@ -248,16 +248,16 @@
                 }
             ],
             "schedule" : [
+            ],
+            "over" : [
                 {
                     "team1" : "S1T",
                     "team2" : "MEC",
                     "logo1" : "/SKT1.webp",
                     "logo2" : "/MEC.webp",
-                    "date" : "31 Aout",
-                    "heure" : "21h00"
-                }
-            ],
-            "over" : [
+                    "score1" : 1,
+                    "score2" : 1
+                },
                 {
                     "team1" : "PTSD",
                     "team2" : "SLYP",
