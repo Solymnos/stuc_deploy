@@ -40,8 +40,8 @@
                 {
                     "name" : "Neuille Eleven 49.3",
                     "win" : 1,
-                    "lose" : 1,
-                    "played" : 2,
+                    "lose" : 3,
+                    "played" : 4,
                     "logo" : "/NE49.webp"
                 },
                 {
@@ -356,19 +356,19 @@
                     "played" : 3,
                     "logo" : "/FCG.webp"
                 },
+                 {
+                    "name" : "Bad Lions",
+                    "win" : 2,
+                    "lose" : 1,
+                    "played" : 3,
+                    "logo" : "/BL.webp"
+                },
                 {
                     "name" : "Caca Chaussette",
                     "win" : 2,
                     "lose" : 2,
                     "played" : 4,
                     "logo" : "/KKC.webp"
-                },
-                {
-                    "name" : "Bad Lions",
-                    "win" : 1,
-                    "lose" : 1,
-                    "played" : 2,
-                    "logo" : "/BL.webp"
                 },
                 {
                     "name" : "Brutalizer 212",
@@ -380,8 +380,8 @@
                 {
                     "name" : "Bienveillance MAX",
                     "win" : 0,
-                    "lose" : 2,
-                    "played" : 2,
+                    "lose" : 3,
+                    "played" : 0,
                     "logo" : "/BM.webp"
                 }
             ],
