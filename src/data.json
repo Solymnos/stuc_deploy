@@ -74,6 +74,14 @@
                 }
             ],
             "schedule" : [
+                {
+                    "team1" : "BI",
+                    "team2" : "NLY",
+                    "logo1" : "/BI.webp",
+                    "logo2" : "/NLY.webp",
+                    "date" : "05 Septembre",
+                    "heure" : "21h00"
+                }
             ],
             "over" : [
                 {
@@ -386,6 +394,14 @@
                 }
             ],
             "schedule" : [
+                {
+                    "team1" : "BBS",
+                    "team2" : "BTZ",
+                    "logo1" : "/CLOWN.webp",
+                    "logo2" : "/BTZ.webp",
+                    "date" : "04 Septembre",
+                    "heure" : "20h45"
+                }
             ],
             "over" : [
                 {
