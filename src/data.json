@@ -352,9 +352,9 @@
             "ranking" : [
                 {
                     "name" : "Bebou Squad",
-                    "win" : 2,
+                    "win" : 3,
                     "lose" : 0,
-                    "played" : 2,
+                    "played" : 3,
                     "logo" : "/CLOWN.webp"
                 },
                 {
@@ -381,8 +381,8 @@
                 {
                     "name" : "Brutalizer 212",
                     "win" : 0,
-                    "lose" : 1,
-                    "played" : 1,
+                    "lose" : 2,
+                    "played" : 2,
                     "logo" : "/BTZ.webp"
                 },
                 {
@@ -404,6 +404,14 @@
                 }
             ],
             "over" : [
+                {
+                    "team1" : "BBS",
+                    "team2" : "BTZ",
+                    "logo1" : "/CLOWN.webp",
+                    "logo2" : "/BTZ.webp",
+                    "score1" : 2,
+                    "score2" : 1
+                },
                 {
                     "team1" : "BL",
                     "team2" : "BM",
