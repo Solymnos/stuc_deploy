@@ -394,14 +394,6 @@
                 }
             ],
             "schedule" : [
-                {
-                    "team1" : "BBS",
-                    "team2" : "BTZ",
-                    "logo1" : "/CLOWN.webp",
-                    "logo2" : "/BTZ.webp",
-                    "date" : "04 Septembre",
-                    "heure" : "20h45"
-                }
             ],
             "over" : [
                 {
