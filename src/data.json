@@ -81,7 +81,15 @@
                     "logo2" : "/NLY.webp",
                     "date" : "10 Septembre",
                     "heure" : "21h00"
-                }
+                },
+                {
+                    "team1" : "UWU",
+                    "team2" : "GGCD",
+                    "logo1" : "/UWU.webp",
+                    "logo2" : "/GGCD.webp",
+                    "date" : "11 Septembre",
+                    "heure" : "21h00"
+                },
             ],
             "over" : [
                 {
