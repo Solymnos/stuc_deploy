@@ -3,6 +3,13 @@
         {
             "ranking" : [
                 {
+                    "name" : "Nulary",
+                    "win" : 6,
+                    "lose" : 0,
+                    "played" : 6,
+                    "logo" : "/NLY.webp"
+                },
+                {
                     "name" : "Uwanted Union",
                     "win" : 5,
                     "lose" : 1,
@@ -15,13 +22,6 @@
                     "lose" : 1,
                     "played" : 6,
                     "logo" : "/MM.webp"
-                },
-                {
-                    "name" : "Nulary",
-                    "win" : 4,
-                    "lose" : 0,
-                    "played" : 4,
-                    "logo" : "/NLY.webp"
                 },
                 {
                     "name" : "Burger Industries",
@@ -52,18 +52,18 @@
                     "logo" : "/LP.webp"
                 },
                 {
-                    "name" : "NPC",
-                    "win" : 1,
-                    "lose" : 3,
-                    "played" : 4,
-                    "logo" : "/NPC.webp"
-                },
-                {
                     "name" : "Breizh 212",
                     "win" : 1,
                     "lose" : 3,
                     "played" : 4,
                     "logo" : "/BZH212.webp"
+                },
+                {
+                    "name" : "NPC",
+                    "win" : 1,
+                    "lose" : 5,
+                    "played" : 4,
+                    "logo" : "/NPC.webp"
                 },
                 {
                     "name" : "GG Call Drake",
@@ -79,11 +79,19 @@
                     "team2" : "NLY",
                     "logo1" : "/BI.webp",
                     "logo2" : "/NLY.webp",
-                    "date" : "05 Septembre",
+                    "date" : "10 Septembre",
                     "heure" : "21h00"
                 }
             ],
             "over" : [
+                {
+                    "team1" : "NLY",
+                    "team2" : "NPC",
+                    "logo1" : "/NLY.webp",
+                    "logo2" : "/NPC.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
                 {
                     "team1" : "NLY",
                     "team2" : "NE49",
@@ -186,78 +194,198 @@
             "ranking" : [
                 {
                     "name" : "Sans titre.webp",
-                    "win" : 7,
+                    "win" : 9,
                     "lose" : 1,
-                    "played" : 8,
+                    "played" : 10,
                     "logo" : "/STP.webp"
                 },
                 {
                     "name" : "Anti Tapas Army",
-                    "win" : 4,
+                    "win" : 8,
                     "lose" : 0,
-                    "played" : 4,
+                    "played" : 8,
                     "logo" : "/ATA.webp"
                 },
                 {
                     "name" : "Pas Toxic Sans Déconner",
-                    "win" : 3,
+                    "win" : 7,
                     "lose" : 1,
-                    "played" : 4,
+                    "played" : 8,
                     "logo" : "/PTSD.webp"
                 },
                 {
-                    "name" : "Esquinté ONE",
-                    "win" : 3,
-                    "lose" : 3,
-                    "played" : 6,
-                    "logo" : "/SKT1.webp"
-                },
-                {
                     "name" : "The Farmers Corp",
-                    "win" : 2,
-                    "lose" : 2,
-                    "played" : 4,
+                    "win" : 7,
+                    "lose" : 3,
+                    "played" : 10,
                     "logo" : "/TFC.webp"
                 },
                 {
-                    "name" : "Humain Littéralement Eclatés",
-                    "win" : 1,
+                    "name" : "SLYP",
+                    "win" : 6,
+                    "lose" : 6,
+                    "played" : 12,
+                    "logo" : "/SLYP.webp"
+                },
+                {
+                    "name" : "Esquinté ONE",
+                    "win" : 5,
                     "lose" : 3,
-                    "played" : 4,
+                    "played" : 8,
+                    "logo" : "/SKT1.webp"
+                },
+                {
+                    "name" : "Humain Littéralement Eclatés",
+                    "win" : 5,
+                    "lose" : 3,
+                    "played" : 8,
                     "logo" : "/HLE.webp"
                 },
                 {
                     "name" : "Melty Ephad Club",
-                    "win" : 1,
+                    "win" : 5,
                     "lose" : 3,
-                    "played" : 4,
+                    "played" : 8,
                     "logo" : "/MEC.webp"
-                },
-                {
-                    "name" : "SLYP",
-                    "win" : 1,
-                    "lose" : 5,
-                    "played" : 6,
-                    "logo" : "/SLYP.webp"
                 },
                 {
                     "name" : "La Confrérie du Wabbit",
                     "win" : 0,
-                    "lose" : 0,
-                    "played" : 0,
+                    "lose" : 16,
+                    "played" : 16,
                     "logo" : "/CDW.webp"
                 },
                 {
                     "name" : "CaleconFreegun",
                     "win" : 0,
-                    "lose" : 4,
-                    "played" : 4,
+                    "lose" : 16,
+                    "played" : 16,
                     "logo" : "/CFG.webp"
                 }
             ],
             "schedule" : [
             ],
             "over" : [
+                {
+                    "team1" : "SLYP",
+                    "team2" : "TFC",
+                    "logo1" : "/SLYP.webp",
+                    "logo2" : "/TFC.webp",
+                    "score1" : 1,
+                    "score2" : 1
+                },
+                {
+                    "team1" : "SLYP",
+                    "team2" : "CDW",
+                    "logo1" : "/SLYP.webp",
+                    "logo2" : "/CDW.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
+                {
+                    "team1" : "MEC",
+                    "team2" : "CDW",
+                    "logo1" : "/MEC.webp",
+                    "logo2" : "/CDW.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
+                {
+                    "team1" : "HLE",
+                    "team2" : "CDW",
+                    "logo1" : "/HLE.webp",
+                    "logo2" : "/CDW.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
+                {
+                    "team1" : "TFC",
+                    "team2" : "CDW",
+                    "logo1" : "/TFC.webp",
+                    "logo2" : "/CDW.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
+                {
+                    "team1" : "SK1",
+                    "team2" : "CDW",
+                    "logo1" : "/SKT1.webp",
+                    "logo2" : "/CDW.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
+                {
+                    "team1" : "PTSD",
+                    "team2" : "CDW",
+                    "logo1" : "/PTSD.webp",
+                    "logo2" : "/CDW.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
+                {
+                    "team1" : "ATA",
+                    "team2" : "CDW",
+                    "logo1" : "/ATA.webp",
+                    "logo2" : "/CDW.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
+                {
+                    "team1" : "STP",
+                    "team2" : "CDW",
+                    "logo1" : "/STP.webp",
+                    "logo2" : "/CDW.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
+                {
+                    "team1" : "SLYP",
+                    "team2" : "CFG",
+                    "logo1" : "/SLYP.webp",
+                    "logo2" : "/CFG.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
+                {
+                    "team1" : "MEC",
+                    "team2" : "CFG",
+                    "logo1" : "/MEC.webp",
+                    "logo2" : "/CFG.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
+                {
+                    "team1" : "HLE",
+                    "team2" : "CFG",
+                    "logo1" : "/HLE.webp",
+                    "logo2" : "/CFG.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
+                {
+                    "team1" : "TFC",
+                    "team2" : "CFG",
+                    "logo1" : "/TFC.webp",
+                    "logo2" : "/CFG.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
+                {
+                    "team1" : "PTSD",
+                    "team2" : "CFG",
+                    "logo1" : "/PTSD.webp",
+                    "logo2" : "/CFG.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
+                {
+                    "team1" : "ATA",
+                    "team2" : "CFG",
+                    "logo1" : "/ATA.webp",
+                    "logo2" : "/CFG.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
                 {
                     "team1" : "S1T",
                     "team2" : "MEC",
