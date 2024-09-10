@@ -89,7 +89,7 @@
                     "logo2" : "/GGCD.webp",
                     "date" : "11 Septembre",
                     "heure" : "21h00"
-                },
+                }
             ],
             "over" : [
                 {
@@ -632,4 +632,3 @@
         }
     ]
 }
-
