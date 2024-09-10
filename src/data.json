@@ -287,6 +287,14 @@
                     "logo2" : "/STP.webp",
                     "date" : "11 Septembre",
                     "heure" : "21h00"
+                },
+                {
+                    "team1" : "S1T",
+                    "team2" : "TFC",
+                    "logo1" : "/SKT1.webp",
+                    "logo2" : "/TFC.webp",
+                    "date" : "11 Septembre",
+                    "heure" : "21h00"
                 }
             ],
             "over" : [
@@ -546,6 +554,14 @@
                 }
             ],
             "schedule" : [
+                {
+                    "team1" : "BBS",
+                    "team2" : "KKC",
+                    "logo1" : "/CLOWN.webp",
+                    "logo2" : "/KKC.webp",
+                    "date" : "10 Septembre",
+                    "heure" : "20h00"
+                },
                 {
                     "team1" : "FCG",
                     "team2" : "BTZ",
