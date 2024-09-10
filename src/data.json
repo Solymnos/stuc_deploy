@@ -3,6 +3,13 @@
         {
             "ranking" : [
                 {
+                    "name" : "Mad Matous",
+                    "win" : 7,
+                    "lose" : 1,
+                    "played" : 8,
+                    "logo" : "/MM.webp"
+                },
+                {
                     "name" : "Nulary",
                     "win" : 6,
                     "lose" : 0,
@@ -15,13 +22,6 @@
                     "lose" : 1,
                     "played" : 6,
                     "logo" : "/UWU.webp"
-                },
-                {
-                    "name" : "Mad Matous",
-                    "win" : 5,
-                    "lose" : 1,
-                    "played" : 6,
-                    "logo" : "/MM.webp"
                 },
                 {
                     "name" : "Burger Industries",
@@ -54,8 +54,8 @@
                 {
                     "name" : "Breizh 212",
                     "win" : 1,
-                    "lose" : 3,
-                    "played" : 4,
+                    "lose" : 5,
+                    "played" : 6,
                     "logo" : "/BZH212.webp"
                 },
                 {
@@ -92,6 +92,14 @@
                 },
             ],
             "over" : [
+                {
+                    "team1" : "MM",
+                    "team2" : "BZH",
+                    "logo1" : "/MM.webp",
+                    "logo2" : "/BZH212.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
                 {
                     "team1" : "NLY",
                     "team2" : "NPC",
@@ -272,6 +280,14 @@
                 }
             ],
             "schedule" : [
+                {
+                    "team1" : "ATA",
+                    "team2" : "STP",
+                    "logo1" : "/ATA.webp",
+                    "logo2" : "/STP.webp",
+                    "date" : "11 Septembre",
+                    "heure" : "21h00"
+                }
             ],
             "over" : [
                 {
@@ -530,6 +546,14 @@
                 }
             ],
             "schedule" : [
+                {
+                    "team1" : "FCG",
+                    "team2" : "BTZ",
+                    "logo1" : "/FCG.webp",
+                    "logo2" : "/BTZ.webp",
+                    "date" : "11 Septembre",
+                    "heure" : "20h00"
+                }
             ],
             "over" : [
                 {
