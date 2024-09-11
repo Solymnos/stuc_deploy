@@ -524,13 +524,6 @@
                     "played" : 5,
                     "logo" : "/KKC.webp"
                 },
-                {
-                    "name" : "FC Guinguette",
-                    "win" : 2,
-                    "lose" : 1,
-                    "played" : 3,
-                    "logo" : "/FCG.webp"
-                },
                  {
                     "name" : "Bad Lions",
                     "win" : 2,
@@ -539,10 +532,17 @@
                     "logo" : "/BL.webp"
                 },
                 {
-                    "name" : "Brutalizer 212",
-                    "win" : 0,
+                    "name" : "FC Guinguette",
+                    "win" : 2,
                     "lose" : 2,
-                    "played" : 2,
+                    "played" : 4,
+                    "logo" : "/FCG.webp"
+                },
+                {
+                    "name" : "Brutalizer 212",
+                    "win" : 1,
+                    "lose" : 2,
+                    "played" : 3,
                     "logo" : "/BTZ.webp"
                 },
                 {
@@ -554,16 +554,16 @@
                 }
             ],
             "schedule" : [
-                {
-                    "team1" : "FCG",
-                    "team2" : "BTZ",
-                    "logo1" : "/FCG.webp",
-                    "logo2" : "/BTZ.webp",
-                    "date" : "11 Septembre",
-                    "heure" : "20h00"
-                }
             ],
             "over" : [
+                 {
+                    "team1" : "BTZ",
+                    "team2" : "FCG",
+                    "logo1" : "/BTZ.webp",
+                    "logo2" : "/FCG.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
                 {
                     "team1" : "KKC",
                     "team2" : "BBS",
