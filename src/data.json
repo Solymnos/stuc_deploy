@@ -2,19 +2,19 @@
     "divisions" : [
         {
             "ranking" : [
+                 {
+                    "name" : "Nulary",
+                    "win" : 8,
+                    "lose" : 0,
+                    "played" : 8,
+                    "logo" : "/NLY.webp"
+                },
                 {
                     "name" : "Mad Matous",
                     "win" : 7,
                     "lose" : 1,
                     "played" : 8,
                     "logo" : "/MM.webp"
-                },
-                {
-                    "name" : "Nulary",
-                    "win" : 6,
-                    "lose" : 0,
-                    "played" : 6,
-                    "logo" : "/NLY.webp"
                 },
                 {
                     "name" : "Uwanted Union",
@@ -26,8 +26,8 @@
                 {
                     "name" : "Burger Industries",
                     "win" : 4,
-                    "lose" : 2,
-                    "played" : 6,
+                    "lose" : 4,
+                    "played" : 8,
                     "logo" : "/BI.webp"
                 },
                 {
@@ -75,14 +75,6 @@
             ],
             "schedule" : [
                 {
-                    "team1" : "BI",
-                    "team2" : "NLY",
-                    "logo1" : "/BI.webp",
-                    "logo2" : "/NLY.webp",
-                    "date" : "10 Septembre",
-                    "heure" : "21h00"
-                },
-                {
                     "team1" : "UWU",
                     "team2" : "GGCD",
                     "logo1" : "/UWU.webp",
@@ -92,6 +84,14 @@
                 }
             ],
             "over" : [
+                {
+                    "team1" : "NLY",
+                    "team2" : "BI",
+                    "logo1" : "/NLY.webp",
+                    "logo2" : "/BI.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
                 {
                     "team1" : "MM",
                     "team2" : "BZH",
@@ -513,9 +513,16 @@
                 {
                     "name" : "Bebou Squad",
                     "win" : 3,
-                    "lose" : 0,
-                    "played" : 3,
+                    "lose" : 1,
+                    "played" : 4,
                     "logo" : "/CLOWN.webp"
+                },
+                {
+                    "name" : "Caca Chaussette",
+                    "win" : 3,
+                    "lose" : 2,
+                    "played" : 5,
+                    "logo" : "/KKC.webp"
                 },
                 {
                     "name" : "FC Guinguette",
@@ -530,13 +537,6 @@
                     "lose" : 1,
                     "played" : 3,
                     "logo" : "/BL.webp"
-                },
-                {
-                    "name" : "Caca Chaussette",
-                    "win" : 2,
-                    "lose" : 2,
-                    "played" : 4,
-                    "logo" : "/KKC.webp"
                 },
                 {
                     "name" : "Brutalizer 212",
@@ -555,14 +555,6 @@
             ],
             "schedule" : [
                 {
-                    "team1" : "BBS",
-                    "team2" : "KKC",
-                    "logo1" : "/CLOWN.webp",
-                    "logo2" : "/KKC.webp",
-                    "date" : "10 Septembre",
-                    "heure" : "20h00"
-                },
-                {
                     "team1" : "FCG",
                     "team2" : "BTZ",
                     "logo1" : "/FCG.webp",
@@ -572,6 +564,14 @@
                 }
             ],
             "over" : [
+                {
+                    "team1" : "KKC",
+                    "team2" : "BBS",
+                    "logo1" : "/KKC.webp",
+                    "logo2" : "/CLOWN.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
                 {
                     "team1" : "BBS",
                     "team2" : "BTZ",
