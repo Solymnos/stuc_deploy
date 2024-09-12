@@ -7,70 +7,80 @@
                     "win" : 8,
                     "lose" : 0,
                     "played" : 8,
-                    "logo" : "/NLY.webp"
+                    "logo" : "/NLY.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=NLY+Pr%C3%B8ux%23EUW%2CNLY+Cr%C3%B8ux%23NPWIN%2CNLY+Croniume%23EUW%2CZedYuki%23EUW%2CCl%C3%A9+%C3%A0+pipe+de+16%2312345"
                 },
                 {
                     "name" : "Mad Matous",
                     "win" : 7,
                     "lose" : 1,
                     "played" : 8,
-                    "logo" : "/MM.webp"
+                    "logo" : "/MM.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=Glacing%23002%2CMega+Poichigeon%23EUW%2CMad+Drako%23EUW%2CTelemack%23EUW%2CFocus+on+bubble%23bulle%2C"
                 },
                 {
                     "name" : "Uwanted Union",
                     "win" : 6,
                     "lose" : 2,
                     "played" : 8,
-                    "logo" : "/UWU.webp"
+                    "logo" : "/UWU.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=Inizia%23Quinn%2CPrincessePerona%23667%2CEkkonomyque%23euw%2CColchopper%23euw%2CPetitChatQuiBoit%23EUW%2C"
                 },
                 {
                     "name" : "Burger Industries",
                     "win" : 4,
                     "lose" : 4,
                     "played" : 8,
-                    "logo" : "/BI.webp"
+                    "logo" : "/BI.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=Fraude+du+siecle%23EUW%2CBI+Lolocheeee%232462%2CR212+VOTEZ+LFP%23JUL%2CHoopphil%23EUW%2CSebajunRIP%23EUW%2C"
                 },
                 {
                     "name" : "OPC Jonquera Recherche Latina92",
                     "win" : 2,
                     "lose" : 4,
                     "played" : 6,
-                    "logo" : "/CLOWN.webp"
+                    "logo" : "/CLOWN.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=SLY+Vincenzo%23021%2CArabe%239393%2CDonBaptista%239439%2CMelioooo0%23EUW07%2COPC+Raph%23EUW"
                 },
                 {
                     "name" : "Neuille Eleven 49.3",
                     "win" : 1,
                     "lose" : 3,
                     "played" : 4,
-                    "logo" : "/NE49.webp"
+                    "logo" : "/NE49.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=Petit+Bandit%23NP53%2CNP+Avians%23NPWIN%2C+GOBEUR%23CON%2CCAMPENEAC%2356800%2C1+Poppy+%C3%A9+au+Lee%23EUW%2C"
                 },
                 {
                     "name" : "Leaderprice",
                     "win" : 1,
                     "lose" : 3,
                     "played" : 4,
-                    "logo" : "/LP.webp"
+                    "logo" : "/LP.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=Coalemos%23SLY%2C%EC%9D%B4%EC%B1%84%EC%98%81oo%23STAYC%2CHSW%23EUW%2CGR%C3%8BNADINE%23EUW%2Catchukoz%23EUW"
                 },
                 {
                     "name" : "Breizh 212",
                     "win" : 1,
                     "lose" : 5,
                     "played" : 6,
-                    "logo" : "/BZH212.webp"
+                    "logo" : "/BZH212.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=The+Steel+Groot%23EUW%2CMonPtitShou%23EUW%2CBZH212+Esso%23212%2CMoonwatcher%23Fire%2CTheDarkRaiser%23EUW%2C"
                 },
                 {
                     "name" : "NPC",
                     "win" : 1,
                     "lose" : 5,
                     "played" : 6,
-                    "logo" : "/NPC.webp"
+                    "logo" : "/NPC.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=Nigaud+in+Paris%23EUW%2CSLY+Mikrowel%237321%2CBaby+Elk%23EUW%2CNP+Reijin%23373%2CWanderingStars%23EUW%2C"
                 },
                 {
                     "name" : "GG Call Drake",
                     "win" : 1,
                     "lose" : 5,
                     "played" : 6,
-                    "logo" : "/GGCD.webp"
+                    "logo" : "/GGCD.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=Brax%23212%2CKOBAA%2369000%2CGGCD+Ouss%2CGGCD+Floxing%2CSLY+ZZZ%235968"
                 }
             ],
             "schedule" : [
@@ -221,21 +231,24 @@
                     "win" : 10,
                     "lose" : 2,
                     "played" : 12,
-                    "logo" : "/STP.webp"
+                    "logo" : "/STP.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=Magnus%23R212%2CVaikoz%23EUW%2CTenshenya%23Moon%2CHiily%234444%2CBabat%231996"
                 },
                 {
                     "name" : "Anti Tapas Army",
                     "win" : 9,
                     "lose" : 1,
                     "played" : 10,
-                    "logo" : "/ATA.webp"
+                    "logo" : "/ATA.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=shirolow%23EUW%2CSLY+Frambwaz%238405%2CChapseppe+Verdi%23EUW%2CVoidSniper%23Kaisa%2CYamikata%23EUW%2C"
                 },
                 {
                     "name" : "Pas Toxic Sans Déconner",
                     "win" : 7,
                     "lose" : 1,
                     "played" : 8,
-                    "logo" : "/PTSD.webp"
+                    "logo" : "/PTSD.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=GOLEM+DE+CHIASSE%23SPREM%2CLunaaa%232026%2CSLY+SOLY%230000%2CLe+Fru%C3%ADt%23EUW%2CKarsham%235117%2C"
                 },
                 
                 {
@@ -243,49 +256,56 @@
                     "win" : 7,
                     "lose" : 3,
                     "played" : 10,
-                    "logo" : "/SKT1.webp"
+                    "logo" : "/SKT1.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=tacos+insolent%23tny%2CBEYBLADE+V9+GOD%23EUW%2Cvroumed%23sly%2CGod+King+Megate%23SLY%2CNeyNess%23SLY%2C"
                 },
                 {
                     "name" : "The Farmers Corp",
                     "win" : 7,
                     "lose" : 5,
                     "played" : 12,
-                    "logo" : "/TFC.webp"
+                    "logo" : "/TFC.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=NaiKaD%23EUW%2CTheWhiteRaion%23TWR%2CPrince+Bojji%23EUW%2CPin+de+peace%23EUW%2Ctitilabaze%23EUW"
                 },
                 {
                     "name" : "SLYP",
                     "win" : 6,
                     "lose" : 6,
                     "played" : 12,
-                    "logo" : "/SLYP.webp"
+                    "logo" : "/SLYP.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=SlyJacquesRell%233243%2CLOLO+LDEGLINGO%23Izak%2CSLY+Ekrelionn%23R212%2CMax111111%23EUW%2CYPSI+Sirgoul%23EUW"
                 },
                 {
                     "name" : "Humain Littéralement Eclatés",
                     "win" : 5,
                     "lose" : 3,
                     "played" : 8,
-                    "logo" : "/HLE.webp"
+                    "logo" : "/HLE.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=Aram+Enjoyer%23SLY%2CBOL%23SLYW%2Crintaro+okabe%23sg141%2CKogMawArboricat%23KOG%2CDr+Philikat%232026"
                 },
                 {
                     "name" : "Melty Ephad Club",
                     "win" : 5,
                     "lose" : 3,
                     "played" : 8,
-                    "logo" : "/MEC.webp"
+                    "logo" : "/MEC.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=LarziKzZ%23EUW%2CGryfenfer%2385320%2CArtezzia%23EUW%2CShpwreck%23EUW%2CGirafeLugubre%23EUW"
                 },
                 {
                     "name" : "La Confrérie du Wabbit",
                     "win" : 0,
                     "lose" : 16,
                     "played" : 16,
-                    "logo" : "/CDW.webp"
+                    "logo" : "/CDW.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=CDW+kp%23EUW%2CNathanlem%C3%A9chant%23EUW00%2CJULOSKI%23EUW%2CSKIBIDI+RUN+DOWN%232108%2CCDW+DTH+el+pop%C3%B2%23EUW"
                 },
                 {
                     "name" : "CaleconFreegun",
                     "win" : 0,
                     "lose" : 16,
                     "played" : 16,
-                    "logo" : "/CFG.webp"
+                    "logo" : "/CFG.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=NP+Nemo%23NPWIN%2CRyomen+Sakuna%237634%2CEimy%232644%2COPC+Lexter%23OPC%2CZeyteN%23Akali%2CSaku%23G2SLY"
                 }
             ],
             "schedule" : [
@@ -524,42 +544,48 @@
                     "win" : 3,
                     "lose" : 1,
                     "played" : 4,
-                    "logo" : "/CLOWN.webp"
+                    "logo" : "/CLOWN.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=LeHerisson%23SLYW%2CN5+Production%23EUW%2CLa%C3%AFku%23EUW%2Clapinet%23EUW%2CAntyagor%23EUW"
                 },
                 {
                     "name" : "Caca Chaussette",
                     "win" : 3,
                     "lose" : 2,
                     "played" : 5,
-                    "logo" : "/KKC.webp"
+                    "logo" : "/KKC.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=Monkey+D+Wukong%23BZH%2C%CE%9E+S%C4%99r+Br%C3%B8nn+%CE%9E%23SLY%2Cfalentheo%23EUW%2CFelixrex%233254%2CGRUUMI%23SDF"
                 },
                  {
                     "name" : "Bad Lions",
                     "win" : 2,
                     "lose" : 1,
                     "played" : 3,
-                    "logo" : "/BL.webp"
+                    "logo" : "/BL.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=Slygotees%23EUW%2CMAG+Rosbeet%23MAG%2CMommy%23nyaaa%2CUtopya%23EUW%2CAmezuuka%23EUW"
                 },
                 {
                     "name" : "FC Guinguette",
                     "win" : 2,
                     "lose" : 2,
                     "played" : 4,
-                    "logo" : "/FCG.webp"
+                    "logo" : "/FCG.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=FCG+Ana%2CPerdonium%23EUW%2CSly+Gosh%23EUW%2CSnero%23EUW%2CEiluj%23SIUU"
                 },
                 {
                     "name" : "Brutalizer 212",
                     "win" : 1,
                     "lose" : 2,
                     "played" : 3,
-                    "logo" : "/BTZ.webp"
+                    "logo" : "/BTZ.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=Scipiio%236500%2CSpilledBack%23501st%2CHedgehog+Max%23MAX%2CBKROG+Stan%231804%2CTrinall%23EUW"
                 },
                 {
                     "name" : "Bienveillance MAX",
                     "win" : 0,
                     "lose" : 3,
                     "played" : 0,
-                    "logo" : "/BM.webp"
+                    "logo" : "/BM.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=Clyse%233690%2CSLY+Mazukette%231415%2CFredoS%23212%2CGoupil%23FOX%2Ctoiquatorze%23EUW%2C"
                 }
             ],
             "schedule" : [

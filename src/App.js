@@ -267,7 +267,7 @@ function App() {
             <TabContainer>
             {
               data.divisions[div].ranking.map((team) => (
-                <TabLine>
+                <TabLine onClick={() => { window.open(team.link, '_blank') }}>
                   <ElementContainer><TeamLogo src={team.logo}/></ElementContainer>
                   <NameContainer>{team.name}</NameContainer>
                   <ElementContainer>{team.played}</ElementContainer>
