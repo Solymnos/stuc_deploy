@@ -120,6 +120,7 @@ const TabLine = styled.div`
   box-sizing : border-box;
   min-height: 5rem;
   max-height: 5rem;
+  cursor : pointer;
 `
 
 const TabLineT = styled.div`
