@@ -115,6 +115,14 @@
                     "logo2" : "/GGCD.webp",
                     "date" : "17 Septembre",
                     "heure" : "21h00"
+                },
+                {
+                    "team1" : "NLY",
+                    "team2" : "OPC",
+                    "logo1" : "/NLY.webp",
+                    "logo2" : "/CLOWN.webp",
+                    "date" : "22 Septembre",
+                    "heure" : "21h00"
                 }
             ],
             "over" : [
@@ -343,6 +351,14 @@
             "schedule" : [
             ],
             "over" : [
+                {
+                    "team1" : "MEC",
+                    "team2" : "PTSD",
+                    "logo1" : "/MEC.webp",
+                    "logo2" : "/PTSD.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
                 {
                     "team1" : "MEC",
                     "team2" : "SLYP",
@@ -598,8 +614,8 @@
                  {
                     "name" : "Bad Lions",
                     "win" : 2,
-                    "lose" : 1,
-                    "played" : 3,
+                    "lose" : 2,
+                    "played" : 4,
                     "logo" : "/BL.webp",
                     "link" : "https://www.op.gg/multisearch/euw?summoners=Slygotees%23EUW%2CMAG+Rosbeet%23MAG%2CMommy%23nyaaa%2CUtopya%23EUW%2CAmezuuka%23EUW"
                 },
@@ -613,9 +629,9 @@
                 },
                 {
                     "name" : "Brutalizer 212",
-                    "win" : 1,
+                    "win" : 2,
                     "lose" : 2,
-                    "played" : 3,
+                    "played" : 4,
                     "logo" : "/BTZ.webp",
                     "link" : "https://www.op.gg/multisearch/euw?summoners=Scipiio%236500%2CSpilledBack%23501st%2CHedgehog+Max%23MAX%2CBKROG+Stan%231804%2CTrinall%23EUW"
                 },
@@ -636,9 +652,25 @@
                     "logo2" : "/BM.webp",
                     "date" : "17 Septembre",
                     "heure" : "21h00"
+                },
+                {
+                    "team1" : "BL",
+                    "team2" : "FCG",
+                    "logo1" : "/BL.webp",
+                    "logo2" : "/FCG.webp",
+                    "date" : "20 Septembre",
+                    "heure" : "21h30"
                 }
             ],
             "over" : [
+                {
+                    "team1" : "BTZ",
+                    "team2" : "BL",
+                    "logo1" : "/BTZ.webp",
+                    "logo2" : "/BL.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
                  {
                     "team1" : "BTZ",
                     "team2" : "FCG",
