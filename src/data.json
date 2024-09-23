@@ -4,9 +4,9 @@
             "ranking" : [
                 {
                     "name" : "Nulary",
-                    "win" : 10,
+                    "win" : 12,
                     "lose" : 0,
-                    "played" : 10,
+                    "played" : 12,
                     "logo" : "/NLY.webp",
                     "link" : "https://www.op.gg/multisearch/euw?summoners=NLY+Pr%C3%B8ux%23EUW%2CNLY+Cr%C3%B8ux%23NPWIN%2CNLY+Croniume%23EUW%2CZedYuki%23EUW%2CCl%C3%A9+%C3%A0+pipe+de+16%2312345"
                 },
@@ -51,20 +51,20 @@
                     "link" : "https://www.op.gg/multisearch/euw?summoners=Brax%23212%2CKOBAA%2369000%2CGGCD+Ouss%2CGGCD+Floxing%2CSLY+ZZZ%235968"
                 },
                 {
-                    "name" : "OPC Jonquera Recherche Latina92",
-                    "win" : 2,
-                    "lose" : 4,
-                    "played" : 6,
-                    "logo" : "/CLOWN.webp",
-                    "link" : "https://www.op.gg/multisearch/euw?summoners=SLY+Vincenzo%23021%2CArabe%239393%2CDonBaptista%239439%2CMelioooo0%23EUW07%2COPC+Raph%23EUW"
-                },
-                {
                     "name" : "Neuille Eleven 49.3",
                     "win" : 2,
                     "lose" : 4,
                     "played" : 6,
                     "logo" : "/NE49.webp",
                     "link" : "https://www.op.gg/multisearch/euw?summoners=Petit+Bandit%23NP53%2CNP+Avians%23NPWIN%2C+GOBEUR%23CON%2CCAMPENEAC%2356800%2C1+Poppy+%C3%A9+au+Lee%23EUW%2C"
+                },
+                {
+                    "name" : "OPC Jonquera Recherche Latina92",
+                    "win" : 2,
+                    "lose" : 6,
+                    "played" : 8,
+                    "logo" : "/CLOWN.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=SLY+Vincenzo%23021%2CArabe%239393%2CDonBaptista%239439%2CMelioooo0%23EUW07%2COPC+Raph%23EUW"
                 },
                 {
                     "name" : "Breizh 212",
@@ -86,17 +86,17 @@
             "schedule" : [
                 {
                     "team1" : "NLY",
-                    "team2" : "OPC",
-                    "logo1" : "/NLY.webp",
-                    "logo2" : "/CLOWN.webp",
-                    "date" : "22 Septembre",
-                    "heure" : "21h00"
-                },
-                {
-                    "team1" : "NLY",
                     "team2" : "LP",
                     "logo1" : "/NLY.webp",
                     "logo2" : "/LP.webp",
+                    "date" : "24 Septembre",
+                    "heure" : "21h00"
+                },
+                {
+                    "team1" : "OPC",
+                    "team2" : "UWU",
+                    "logo1" : "/CLOWN.webp",
+                    "logo2" : "/UWU.webp",
                     "date" : "24 Septembre",
                     "heure" : "21h00"
                 },
@@ -107,9 +107,17 @@
                     "logo2" : "/LP.webp",
                     "date" : "25 Septembre",
                     "heure" : "21h15"
-                }
+                }  
             ],
             "over" : [
+                {
+                    "team1" : "NLY",
+                    "team2" : "OPC",
+                    "logo1" : "/NLY.webp",
+                    "logo2" : "/CLOWN.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
                 {
                     "team1" : "BI",
                     "team2" : "GGCD",
@@ -316,9 +324,9 @@
                 },
                 {
                     "name" : "Pas Toxic Sans Déconner",
-                    "win" : 7,
-                    "lose" : 3,
-                    "played" : 10,
+                    "win" : 8,
+                    "lose" : 4,
+                    "played" : 12,
                     "logo" : "/PTSD.webp",
                     "link" : "https://www.op.gg/multisearch/euw?summoners=GOLEM+DE+CHIASSE%23SPREM%2CLunaaa%232026%2CSLY+SOLY%230000%2CLe+Fru%C3%ADt%23EUW%2CKarsham%235117%2C"
                 },
@@ -331,20 +339,20 @@
                     "link" : "https://www.op.gg/multisearch/euw?summoners=NaiKaD%23EUW%2CTheWhiteRaion%23TWR%2CPrince+Bojji%23EUW%2CPin+de+peace%23EUW%2Ctitilabaze%23EUW"
                 },
                 {
+                    "name" : "Humain Littéralement Eclatés",
+                    "win" : 6,
+                    "lose" : 4,
+                    "played" : 10,
+                    "logo" : "/HLE.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=Aram+Enjoyer%23SLY%2CBOL%23SLYW%2Crintaro+okabe%23sg141%2CKogMawArboricat%23KOG%2CDr+Philikat%232026"
+                },
+                {
                     "name" : "SLYP",
                     "win" : 6,
                     "lose" : 10,
                     "played" : 16,
                     "logo" : "/SLYP.webp",
                     "link" : "https://www.op.gg/multisearch/euw?summoners=SlyJacquesRell%233243%2CLOLO+LDEGLINGO%23Izak%2CSLY+Ekrelionn%23R212%2CMax111111%23EUW%2CYPSI+Sirgoul%23EUW"
-                },
-                {
-                    "name" : "Humain Littéralement Eclatés",
-                    "win" : 5,
-                    "lose" : 3,
-                    "played" : 8,
-                    "logo" : "/HLE.webp",
-                    "link" : "https://www.op.gg/multisearch/euw?summoners=Aram+Enjoyer%23SLY%2CBOL%23SLYW%2Crintaro+okabe%23sg141%2CKogMawArboricat%23KOG%2CDr+Philikat%232026"
                 },
                 {
                     "name" : "La Confrérie du Wabbit",
@@ -364,8 +372,24 @@
                 }
             ],
             "schedule" : [
+                {
+                    "team1" : "ATA",
+                    "team2" : "TFC",
+                    "logo1" : "/ATA.webp",
+                    "logo2" : "/TFC.webp",
+                    "date" : "25 Septembre",
+                    "heure" : "21h00"
+                } 
             ],
             "over" : [
+                {
+                    "team1" : "PTSD",
+                    "team2" : "HLE",
+                    "logo1" : "/PTSD.webp",
+                    "logo2" : "/HLE.webp",
+                    "score1" : 1,
+                    "score2" : 1
+                },
                 {
                     "team1" : "S1T",
                     "team2" : "SLYP",
@@ -634,19 +658,11 @@
                     "logo" : "/KKC.webp",
                     "link" : "https://www.op.gg/multisearch/euw?summoners=Monkey+D+Wukong%23BZH%2C%CE%9E+S%C4%99r+Br%C3%B8nn+%CE%9E%23SLY%2Cfalentheo%23EUW%2CFelixrex%233254%2CGRUUMI%23SDF"
                 },
-                 {
-                    "name" : "Bad Lions",
-                    "win" : 2,
-                    "lose" : 2,
-                    "played" : 4,
-                    "logo" : "/BL.webp",
-                    "link" : "https://www.op.gg/multisearch/euw?summoners=Slygotees%23EUW%2CMAG+Rosbeet%23MAG%2CMommy%23nyaaa%2CUtopya%23EUW%2CAmezuuka%23EUW"
-                },
                 {
                     "name" : "FC Guinguette",
-                    "win" : 2,
+                    "win" : 3,
                     "lose" : 2,
-                    "played" : 4,
+                    "played" : 5,
                     "logo" : "/FCG.webp",
                     "link" : "https://www.op.gg/multisearch/euw?summoners=FCG+Ana%2CPerdonium%23EUW%2CSly+Gosh%23EUW%2CSnero%23EUW%2CEiluj%23SIUU"
                 },
@@ -659,6 +675,14 @@
                     "link" : "https://www.op.gg/multisearch/euw?summoners=Scipiio%236500%2CSpilledBack%23501st%2CHedgehog+Max%23MAX%2CBKROG+Stan%231804%2CTrinall%23EUW"
                 },
                 {
+                    "name" : "Bad Lions",
+                    "win" : 2,
+                    "lose" : 3,
+                    "played" : 5,
+                    "logo" : "/BL.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=Slygotees%23EUW%2CMAG+Rosbeet%23MAG%2CMommy%23nyaaa%2CUtopya%23EUW%2CAmezuuka%23EUW"
+                },
+                {
                     "name" : "Bienveillance MAX",
                     "win" : 0,
                     "lose" : 4,
@@ -668,16 +692,16 @@
                 }
             ],
             "schedule" : [
-                {
-                    "team1" : "BL",
-                    "team2" : "FCG",
-                    "logo1" : "/BL.webp",
-                    "logo2" : "/FCG.webp",
-                    "date" : "20 Septembre",
-                    "heure" : "21h30"
-                }
             ],
             "over" : [
+                {
+                    "team1" : "FCG",
+                    "team2" : "BL",
+                    "logo1" : "/FCG.webp",
+                    "logo2" : "/BL.webp",
+                    "score1" : 2,
+                    "score2" : 1
+                },
                 {
                     "team1" : "BBS",
                     "team2" : "BM",
