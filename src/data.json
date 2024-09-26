@@ -19,6 +19,14 @@
                     "link" : "https://www.op.gg/multisearch/euw?summoners=Glacing%23002%2CMega+Poichigeon%23EUW%2CMad+Drako%23EUW%2CTelemack%23EUW%2CFocus+on+bubble%23bulle%2C"
                 },
                 {
+                    "name" : "Burger Industries",
+                    "win" : 7,
+                    "lose" : 7,
+                    "played" : 14,
+                    "logo" : "/BI.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=Fraude+du+siecle%23EUW%2CBI+Lolocheeee%232462%2CR212+VOTEZ+LFP%23JUL%2CHoopphil%23EUW%2CSebajunRIP%23EUW%2C"
+                },
+                {
                     "name" : "Uwanted Union",
                     "win" : 6,
                     "lose" : 8,
@@ -27,18 +35,10 @@
                     "link" : "https://www.op.gg/multisearch/euw?summoners=Inizia%23Quinn%2CPrincessePerona%23667%2CEkkonomyque%23euw%2CColchopper%23euw%2CPetitChatQuiBoit%23EUW%2C"
                 },
                 {
-                    "name" : "Burger Industries",
-                    "win" : 5,
-                    "lose" : 7,
-                    "played" : 12,
-                    "logo" : "/BI.webp",
-                    "link" : "https://www.op.gg/multisearch/euw?summoners=Fraude+du+siecle%23EUW%2CBI+Lolocheeee%232462%2CR212+VOTEZ+LFP%23JUL%2CHoopphil%23EUW%2CSebajunRIP%23EUW%2C"
-                },
-                {
                     "name" : "Leaderprice",
                     "win" : 3,
-                    "lose" : 5,
-                    "played" : 8,
+                    "lose" : 7,
+                    "played" : 10,
                     "logo" : "/LP.webp",
                     "link" : "https://www.op.gg/multisearch/euw?summoners=Coalemos%23SLY%2C%EC%9D%B4%EC%B1%84%EC%98%81oo%23STAYC%2CHSW%23EUW%2CGR%C3%8BNADINE%23EUW%2Catchukoz%23EUW"
                 },
@@ -84,16 +84,16 @@
                 }
             ],
             "schedule" : [
+            ],
+            "over" : [
                 {
                     "team1" : "BI",
                     "team2" : "LP",
                     "logo1" : "/BI.webp",
                     "logo2" : "/LP.webp",
-                    "date" : "25 Septembre",
-                    "heure" : "21h15"
-                }  
-            ],
-            "over" : [
+                    "score1" : 2,
+                    "score2" : 0
+                },
                 {
                     "team1" : "OPC",
                     "team2" : "UWU",
@@ -291,20 +291,20 @@
         {
             "ranking" : [
                 {
+                    "name" : "Anti Tapas Army",
+                    "win" : 11,
+                    "lose" : 1,
+                    "played" : 12,
+                    "logo" : "/ATA.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=shirolow%23EUW%2CSLY+Frambwaz%238405%2CChapseppe+Verdi%23EUW%2CVoidSniper%23Kaisa%2CYamikata%23EUW%2C"
+                },
+                {
                     "name" : "Sans titre.webp",
                     "win" : 10,
                     "lose" : 2,
                     "played" : 12,
                     "logo" : "/STP.webp",
                     "link" : "https://www.op.gg/multisearch/euw?summoners=Magnus%23R212%2CVaikoz%23EUW%2CTenshenya%23Moon%2CHiily%234444%2CBabat%231996"
-                },
-                {
-                    "name" : "Anti Tapas Army",
-                    "win" : 9,
-                    "lose" : 1,
-                    "played" : 10,
-                    "logo" : "/ATA.webp",
-                    "link" : "https://www.op.gg/multisearch/euw?summoners=shirolow%23EUW%2CSLY+Frambwaz%238405%2CChapseppe+Verdi%23EUW%2CVoidSniper%23Kaisa%2CYamikata%23EUW%2C"
                 },
                 {
                     "name" : "Melty Ephad Club",
@@ -333,8 +333,8 @@
                 {
                     "name" : "The Farmers Corp",
                     "win" : 7,
-                    "lose" : 5,
-                    "played" : 12,
+                    "lose" : 7,
+                    "played" : 14,
                     "logo" : "/TFC.webp",
                     "link" : "https://www.op.gg/multisearch/euw?summoners=NaiKaD%23EUW%2CTheWhiteRaion%23TWR%2CPrince+Bojji%23EUW%2CPin+de+peace%23EUW%2Ctitilabaze%23EUW"
                 },
@@ -374,14 +374,6 @@
             "schedule" : [
                 {
                     "team1" : "ATA",
-                    "team2" : "TFC",
-                    "logo1" : "/ATA.webp",
-                    "logo2" : "/TFC.webp",
-                    "date" : "25 Septembre",
-                    "heure" : "21h00"
-                },
-                {
-                    "team1" : "ATA",
                     "team2" : "SLYP",
                     "logo1" : "/ATA.webp",
                     "logo2" : "/SLYP.webp",
@@ -398,6 +390,14 @@
                 }
             ],
             "over" : [
+                {
+                    "team1" : "ATA",
+                    "team2" : "TFC",
+                    "logo1" : "/ATA.webp",
+                    "logo2" : "/TFC.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
                 {
                     "team1" : "PTSD",
                     "team2" : "HLE",
