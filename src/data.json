@@ -35,6 +35,14 @@
                     "link" : "https://www.op.gg/multisearch/euw?summoners=Inizia%23Quinn%2CPrincessePerona%23667%2CEkkonomyque%23euw%2CColchopper%23euw%2CPetitChatQuiBoit%23EUW%2C"
                 },
                 {
+                    "name" : "OPC Jonquera Recherche Latina92",
+                    "win" : 5,
+                    "lose" : 7,
+                    "played" : 12,
+                    "logo" : "/CLOWN.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=SLY+Vincenzo%23021%2CArabe%239393%2CDonBaptista%239439%2CMelioooo0%23EUW07%2COPC+Raph%23EUW"
+                },
+                {
                     "name" : "Leaderprice",
                     "win" : 3,
                     "lose" : 7,
@@ -59,12 +67,12 @@
                     "link" : "https://www.op.gg/multisearch/euw?summoners=Petit+Bandit%23NP53%2CNP+Avians%23NPWIN%2C+GOBEUR%23CON%2CCAMPENEAC%2356800%2C1+Poppy+%C3%A9+au+Lee%23EUW%2C"
                 },
                 {
-                    "name" : "OPC Jonquera Recherche Latina92",
-                    "win" : 4,
+                    "name" : "NPC",
+                    "win" : 2,
                     "lose" : 6,
-                    "played" : 10,
-                    "logo" : "/CLOWN.webp",
-                    "link" : "https://www.op.gg/multisearch/euw?summoners=SLY+Vincenzo%23021%2CArabe%239393%2CDonBaptista%239439%2CMelioooo0%23EUW07%2COPC+Raph%23EUW"
+                    "played" : 8,
+                    "logo" : "/NPC.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=Nigaud+in+Paris%23EUW%2CSLY+Mikrowel%237321%2CBaby+Elk%23EUW%2CNP+Reijin%23373%2CWanderingStars%23EUW%2C"
                 },
                 {
                     "name" : "Breizh 212",
@@ -73,19 +81,19 @@
                     "played" : 6,
                     "logo" : "/BZH212.webp",
                     "link" : "https://www.op.gg/multisearch/euw?summoners=The+Steel+Groot%23EUW%2CMonPtitShou%23EUW%2CBZH212+Esso%23212%2CMoonwatcher%23Fire%2CTheDarkRaiser%23EUW%2C"
-                },
-                {
-                    "name" : "NPC",
-                    "win" : 1,
-                    "lose" : 5,
-                    "played" : 6,
-                    "logo" : "/NPC.webp",
-                    "link" : "https://www.op.gg/multisearch/euw?summoners=Nigaud+in+Paris%23EUW%2CSLY+Mikrowel%237321%2CBaby+Elk%23EUW%2CNP+Reijin%23373%2CWanderingStars%23EUW%2C"
-                }
+                } 
             ],
             "schedule" : [
             ],
             "over" : [
+                {
+                    "team1" : "OPC",
+                    "team2" : "NPC",
+                    "logo1" : "/CLOWN.webp",
+                    "logo2" : "/NPC.webp",
+                    "score1" : 1,
+                    "score2" : 1
+                },
                 {
                     "team1" : "BI",
                     "team2" : "LP",
