@@ -724,9 +724,9 @@
             "ranking" : [
                 {
                     "name" : "Bebou Squad",
-                    "win" : 5,
+                    "win" : 6,
                     "lose" : 1,
-                    "played" : 6,
+                    "played" : 7,
                     "logo" : "/CLOWN.webp",
                     "link" : "https://www.op.gg/multisearch/euw?summoners=LeHerisson%23SLYW%2CN5+Production%23EUW%2CLa%C3%AFku%23EUW%2Clapinet%23EUW%2CAntyagor%23EUW"
                 },
@@ -741,10 +741,18 @@
                 {
                     "name" : "FC Guinguette",
                     "win" : 3,
-                    "lose" : 2,
-                    "played" : 5,
+                    "lose" : 3,
+                    "played" : 6,
                     "logo" : "/FCG.webp",
                     "link" : "https://www.op.gg/multisearch/euw?summoners=FCG+Ana%2CPerdonium%23EUW%2CSly+Gosh%23EUW%2CSnero%23EUW%2CEiluj%23SIUU"
+                },
+                {
+                    "name" : "Brutalizer 212",
+                    "win" : 3,
+                    "lose" : 4,
+                    "played" : 7,
+                    "logo" : "/BTZ.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=Scipiio%236500%2CSpilledBack%23501st%2CHedgehog+Max%23MAX%2CBKROG+Stan%231804%2CTrinall%23EUW"
                 },
                 {
                     "name" : "Bad Lions",
@@ -755,18 +763,10 @@
                     "link" : "https://www.op.gg/multisearch/euw?summoners=Slygotees%23EUW%2CMAG+Rosbeet%23MAG%2CMommy%23nyaaa%2CUtopya%23EUW%2CAmezuuka%23EUW"
                 },
                 {
-                    "name" : "Brutalizer 212",
-                    "win" : 2,
-                    "lose" : 4,
-                    "played" : 6,
-                    "logo" : "/BTZ.webp",
-                    "link" : "https://www.op.gg/multisearch/euw?summoners=Scipiio%236500%2CSpilledBack%23501st%2CHedgehog+Max%23MAX%2CBKROG+Stan%231804%2CTrinall%23EUW"
-                },
-                {
                     "name" : "Bienveillance MAX",
                     "win" : 0,
-                    "lose" : 4,
-                    "played" : 4,
+                    "lose" : 5,
+                    "played" : 5,
                     "logo" : "/BM.webp",
                     "link" : "https://www.op.gg/multisearch/euw?summoners=Clyse%233690%2CSLY+Mazukette%231415%2CFredoS%23212%2CGoupil%23FOX%2Ctoiquatorze%23EUW%2C"
                 }
@@ -774,6 +774,22 @@
             "schedule" : [
             ],
             "over" : [
+                {
+                    "team1" : "BM",
+                    "team2" : "BTLZ",
+                    "logo1" : "/BM.webp",
+                    "logo2" : "/BTZ.webp",
+                    "score1" : 1,
+                    "score2" : 2
+                },
+                {
+                    "team1" : "BBS",
+                    "team2" : "FCG",
+                    "logo1" : "/CLOWN.webp",
+                    "logo2" : "/FCG.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
                 {
                     "team1" : "BBS",
                     "team2" : "BTLZ",
