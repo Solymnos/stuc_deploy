@@ -340,9 +340,9 @@
             "ranking" : [
                 {
                     "name" : "Anti Tapas Army",
-                    "win" : 14,
-                    "lose" : 2,
-                    "played" : 16,
+                    "win" : 15,
+                    "lose" : 3,
+                    "played" : 18,
                     "logo" : "/ATA.webp",
                     "link" : "https://www.op.gg/multisearch/euw?summoners=shirolow%23EUW%2CSLY+Frambwaz%238405%2CChapseppe+Verdi%23EUW%2CVoidSniper%23Kaisa%2CYamikata%23EUW%2C"
                 },
@@ -355,20 +355,20 @@
                     "link" : "https://www.op.gg/multisearch/euw?summoners=LarziKzZ%23EUW%2CGryfenfer%2385320%2CArtezzia%23EUW%2CShpwreck%23EUW%2CGirafeLugubre%23EUW"
                 },
                 {
+                    "name" : "Pas Toxic Sans Déconner",
+                    "win" : 11,
+                    "lose" : 5,
+                    "played" : 16,
+                    "logo" : "/PTSD.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=GOLEM+DE+CHIASSE%23SPREM%2CLunaaa%232026%2CSLY+SOLY%230000%2CLe+Fru%C3%ADt%23EUW%2CKarsham%235117%2C"
+                },
+                {
                     "name" : "Sans titre.webp",
                     "win" : 10,
                     "lose" : 4,
                     "played" : 14,
                     "logo" : "/STP.webp",
                     "link" : "https://www.op.gg/multisearch/euw?summoners=Magnus%23R212%2CVaikoz%23EUW%2CTenshenya%23Moon%2CHiily%234444%2CBabat%231996"
-                },
-                {
-                    "name" : "Pas Toxic Sans Déconner",
-                    "win" : 10,
-                    "lose" : 4,
-                    "played" : 14,
-                    "logo" : "/PTSD.webp",
-                    "link" : "https://www.op.gg/multisearch/euw?summoners=GOLEM+DE+CHIASSE%23SPREM%2CLunaaa%232026%2CSLY+SOLY%230000%2CLe+Fru%C3%ADt%23EUW%2CKarsham%235117%2C"
                 },
                 {
                     "name" : "Esquinté ONE",
@@ -422,6 +422,14 @@
             "schedule" : [
             ],
             "over" : [
+                {
+                    "team1" : "ATA",
+                    "team2" : "PTSD",
+                    "logo1" : "/ATA.webp",
+                    "logo2" : "/PTSD.webp",
+                    "score1" : 1,
+                    "score2" : 1
+                },
                 {
                     "team1" : "ATA",
                     "team2" : "HLE",
