@@ -395,14 +395,6 @@
                     "link" : "https://www.op.gg/multisearch/euw?summoners=shirolow%23EUW%2CSLY+Frambwaz%238405%2CChapseppe+Verdi%23EUW%2CVoidSniper%23Kaisa%2CYamikata%23EUW%2C"
                 },
                 {
-                    "name" : "Menteurs Escrocs Club",
-                    "win" : 13,
-                    "lose" : 3,
-                    "played" : 16,
-                    "logo" : "/MEC.webp",
-                    "link" : "https://www.op.gg/multisearch/euw?summoners=LarziKzZ%23EUW%2CGryfenfer%2385320%2CArtezzia%23EUW%2CShpwreck%23EUW%2CGirafeLugubre%23EUW"
-                },
-                {
                     "name" : "Pas Toxic Sans Déconner",
                     "win" : 13,
                     "lose" : 5,
@@ -449,6 +441,14 @@
                     "played" : 12,
                     "logo" : "/HLE.webp",
                     "link" : "https://www.op.gg/multisearch/euw?summoners=Aram+Enjoyer%23SLY%2CBOL%23SLYW%2Crintaro+okabe%23sg141%2CKogMawArboricat%23KOG%2CDr+Philikat%232026"
+                },
+                {
+                    "name" : "Menteurs Escrocs Club",
+                    "win" : "BAN",
+                    "lose" : "BAN",
+                    "played" : "BAN",
+                    "logo" : "/MEC.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=LarziKzZ%23EUW%2CGryfenfer%2385320%2CArtezzia%23EUW%2CShpwreck%23EUW%2CGirafeLugubre%23EUW"
                 },
                 {
                     "name" : "La Confrérie du Wabbit",
