@@ -59,20 +59,20 @@
                     "link" : "https://www.op.gg/multisearch/euw?summoners=Inizia%23Quinn%2CPrincessePerona%23667%2CEkkonomyque%23euw%2CColchopper%23euw%2CPetitChatQuiBoit%23EUW%2C"
                 },
                 {
-                    "name" : "GG Call Drake",
-                    "win" : 4,
-                    "lose" : 8,
-                    "played" : 12,
-                    "logo" : "/GGCD.webp",
-                    "link" : "https://www.op.gg/multisearch/euw?summoners=Brax%23212%2CKOBAA%2369000%2CGGCD+Ouss%2CGGCD+Floxing%2CSLY+ZZZ%235968"
-                },
-                {
                     "name" : "Neuille Eleven 49.3",
-                    "win" : 3,
+                    "win" : 5,
                     "lose" : 7,
-                    "played" : 10,
+                    "played" : 12,
                     "logo" : "/NE49.webp",
                     "link" : "https://www.op.gg/multisearch/euw?summoners=Petit+Bandit%23NP53%2CNP+Avians%23NPWIN%2C+GOBEUR%23CON%2CCAMPENEAC%2356800%2C1+Poppy+%C3%A9+au+Lee%23EUW%2C"
+                },
+                {
+                    "name" : "GG Call Drake",
+                    "win" : 4,
+                    "lose" : 10,
+                    "played" : 14,
+                    "logo" : "/GGCD.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=Brax%23212%2CKOBAA%2369000%2CGGCD+Ouss%2CGGCD+Floxing%2CSLY+ZZZ%235968"
                 },
                 {
                     "name" : "Breizh 212",
@@ -86,6 +86,14 @@
             "schedule" : [
             ],
             "over" : [
+                {
+                    "team1" : "NE49",
+                    "team2" : "GGCD",
+                    "logo1" : "/NE49.webp",
+                    "logo2" : "/GGCD.webp",
+                    "score1" : 2,
+                    "score2" : 0
+                },
                 {
                     "team1" : "NLY",
                     "team2" : "BZH",
@@ -387,14 +395,6 @@
         {
             "ranking" : [
                 {
-                    "name" : "Anti Tapas Army",
-                    "win" : 15,
-                    "lose" : 3,
-                    "played" : 18,
-                    "logo" : "/ATA.webp",
-                    "link" : "https://www.op.gg/multisearch/euw?summoners=shirolow%23EUW%2CSLY+Frambwaz%238405%2CChapseppe+Verdi%23EUW%2CVoidSniper%23Kaisa%2CYamikata%23EUW%2C"
-                },
-                {
                     "name" : "Pas Toxic Sans Déconner",
                     "win" : 13,
                     "lose" : 5,
@@ -441,6 +441,14 @@
                     "played" : 12,
                     "logo" : "/HLE.webp",
                     "link" : "https://www.op.gg/multisearch/euw?summoners=Aram+Enjoyer%23SLY%2CBOL%23SLYW%2Crintaro+okabe%23sg141%2CKogMawArboricat%23KOG%2CDr+Philikat%232026"
+                },
+                {
+                    "name" : "Anti Tapas Army",
+                    "win" : "FF",
+                    "lose" : "FF",
+                    "played" : "FF",
+                    "logo" : "/ATA.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=shirolow%23EUW%2CSLY+Frambwaz%238405%2CChapseppe+Verdi%23EUW%2CVoidSniper%23Kaisa%2CYamikata%23EUW%2C"
                 },
                 {
                     "name" : "Menteurs Escrocs Club",
@@ -804,19 +812,27 @@
             "ranking" : [
                 {
                     "name" : "Bebou Squad",
-                    "win" : 6,
+                    "win" : 7,
                     "lose" : 1,
-                    "played" : 7,
+                    "played" : 8,
                     "logo" : "/CLOWN.webp",
                     "link" : "https://www.op.gg/multisearch/euw?summoners=LeHerisson%23SLYW%2CN5+Production%23EUW%2CLa%C3%AFku%23EUW%2Clapinet%23EUW%2CAntyagor%23EUW"
                 },
                 {
                     "name" : "Caca Chaussette",
                     "win" : 4,
-                    "lose" : 2,
-                    "played" : 6,
+                    "lose" : 3,
+                    "played" : 7,
                     "logo" : "/KKC.webp",
                     "link" : "https://www.op.gg/multisearch/euw?summoners=Monkey+D+Wukong%23BZH%2C%CE%9E+S%C4%99r+Br%C3%B8nn+%CE%9E%23SLY%2Cfalentheo%23EUW%2CFelixrex%233254%2CGRUUMI%23SDF"
+                },
+                {
+                    "name" : "Brutalizer 212",
+                    "win" : 4,
+                    "lose" : 4,
+                    "played" : 8,
+                    "logo" : "/BTZ.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=Scipiio%236500%2CSpilledBack%23501st%2CHedgehog+Max%23MAX%2CBKROG+Stan%231804%2CTrinall%23EUW"
                 },
                 {
                     "name" : "FC Guinguette",
@@ -825,14 +841,6 @@
                     "played" : 7,
                     "logo" : "/FCG.webp",
                     "link" : "https://www.op.gg/multisearch/euw?summoners=FCG+Ana%2CPerdonium%23EUW%2CSly+Gosh%23EUW%2CSnero%23EUW%2CEiluj%23SIUU"
-                },
-                {
-                    "name" : "Brutalizer 212",
-                    "win" : 3,
-                    "lose" : 4,
-                    "played" : 7,
-                    "logo" : "/BTZ.webp",
-                    "link" : "https://www.op.gg/multisearch/euw?summoners=Scipiio%236500%2CSpilledBack%23501st%2CHedgehog+Max%23MAX%2CBKROG+Stan%231804%2CTrinall%23EUW"
                 },
                 {
                     "name" : "Bad Lions",
@@ -845,8 +853,8 @@
                 {
                     "name" : "Bienveillance MAX",
                     "win" : 0,
-                    "lose" : 5,
-                    "played" : 5,
+                    "lose" : 6,
+                    "played" : 6,
                     "logo" : "/BM.webp",
                     "link" : "https://www.op.gg/multisearch/euw?summoners=Clyse%233690%2CSLY+Mazukette%231415%2CFredoS%23212%2CGoupil%23FOX%2Ctoiquatorze%23EUW%2C"
                 }
@@ -854,6 +862,22 @@
             "schedule" : [
             ],
             "over" : [
+                {
+                    "team1" : "BTZ",
+                    "team2" : "BM",
+                    "logo1" : "/BTZ.webp",
+                    "logo2" : "/BM.webp",
+                    "score1" : 2,
+                    "score2" : 1
+                },
+                {
+                    "team1" : "BBS",
+                    "team2" : "KKC",
+                    "logo1" : "/BBS.webp",
+                    "logo2" : "/KKC.webp",
+                    "score1" : 2,
+                    "score2" : 1
+                },
                 {
                     "team1" : "BL",
                     "team2" : "FCG",
