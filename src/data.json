@@ -43,6 +43,14 @@
                     "link" : "https://www.op.gg/multisearch/euw?summoners=SLY+Vincenzo%23021%2CArabe%239393%2CDonBaptista%239439%2CMelioooo0%23EUW07%2COPC+Raph%23EUW"
                 },
                 {
+                    "name" : "Uwanted Union",
+                    "win" : 7,
+                    "lose" : 11,
+                    "played" : 18,
+                    "logo" : "/UWU.webp",
+                    "link" : "https://www.op.gg/multisearch/euw?summoners=Inizia%23Quinn%2CPrincessePerona%23667%2CEkkonomyque%23euw%2CColchopper%23euw%2CPetitChatQuiBoit%23EUW%2C"
+                },
+                {
                     "name" : "NPC",
                     "win" : 6,
                     "lose" : 8,
@@ -51,18 +59,10 @@
                     "link" : "https://www.op.gg/multisearch/euw?summoners=Nigaud+in+Paris%23EUW%2CSLY+Mikrowel%237321%2CBaby+Elk%23EUW%2CNP+Reijin%23373%2CWanderingStars%23EUW%2C"
                 },
                 {
-                    "name" : "Uwanted Union",
-                    "win" : 6,
-                    "lose" : 10,
-                    "played" : 16,
-                    "logo" : "/UWU.webp",
-                    "link" : "https://www.op.gg/multisearch/euw?summoners=Inizia%23Quinn%2CPrincessePerona%23667%2CEkkonomyque%23euw%2CColchopper%23euw%2CPetitChatQuiBoit%23EUW%2C"
-                },
-                {
                     "name" : "Neuille Eleven 49.3",
-                    "win" : 5,
-                    "lose" : 7,
-                    "played" : 12,
+                    "win" : 6,
+                    "lose" : 8,
+                    "played" : 14,
                     "logo" : "/NE49.webp",
                     "link" : "https://www.op.gg/multisearch/euw?summoners=Petit+Bandit%23NP53%2CNP+Avians%23NPWIN%2C+GOBEUR%23CON%2CCAMPENEAC%2356800%2C1+Poppy+%C3%A9+au+Lee%23EUW%2C"
                 },
@@ -86,6 +86,14 @@
             "schedule" : [
             ],
             "over" : [
+                {
+                    "team1" : "NE49",
+                    "team2" : "UWU",
+                    "logo1" : "/NE49.webp",
+                    "logo2" : "/UWU.webp",
+                    "score1" : 1,
+                    "score2" : 1
+                },
                 {
                     "team1" : "NE49",
                     "team2" : "GGCD",
